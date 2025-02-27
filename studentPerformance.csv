@@ -1,0 +1,89 @@
+Timestamp,Age,Gender.,How would you classify  your family's income level?,Parental  education level,School,What is your current  academic level?,CGPA  estimate after 100 level second semester?,CGPA  estimate after  current level ?,Select the closest or nearest grades for these courses [MATH 101],Select the closest or nearest grades for these courses [MATH 102],Select the closest or nearest grades for these courses [COSC 101/COSC 111],Select the closest or nearest grades for these courses [PHY 101],Select the closest or nearest grades for these courses [PHY 102],Rate  your class attendance from 1 to 10,"On average, how would you rate your scores in assignments or projects?",Rate your performance in assignments from 1 to 10,Rate your participation in class,"Rate your attendance to classes
+",Rate your overall performance.,Do you have health issues that affect your studies,Education motivation level,How many hours per week do you spend studying outside class?,How do you prefer studying?,Does internet access affect your studies,Rate your time management skills,Peer  influence on student perfromance,How confident are you about understanding your course material?,Distance from your hostel to the lecture hall in ?,"Does the  extracurricular commitments, including worship, impact your study time? ",Rate your class attendance 
+2/4/2025 13:39,17,Female,"Greater than 70,000,000 per annum",Postgraduate,Computing,400,4.5,4,B,A,A,A,A,10,5,10,4,8,High,No,High,< 40 hours,Self-study,Yes,Average,10,3,1 km,Yes,8
+2/4/2025 13:41,18,Male,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,300,5,5,A,A,B,A,A,9,5,9,9,9,High,No,High,< 40 hours,Self-study,Yes,Average,1,5,Less than 1 km,No,9
+2/4/2025 13:42,18,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,200,4,4,B,A,A,A,B,7,4,8,6,7,Medium,No,Medium,< 40 hours,Self-study,Yes,Average,8,4,Less than 1 km,Yes,7
+2/4/2025 13:54,17,Male,"30,000,000-50,000,000 naira per annum",Postgraduate,Computing,200,4.5,4.5,A,A,A,A,B,7,4,8,2,7,Low,No,Medium,< 40 hours,Self-study,Yes,Poor,10,4,1 km,Yes,7
+2/4/2025 14:25,19,Male,"< 30,000,000 naira/yesr",Bachelor's,Computing,300,4,4,B,A,B,C,B,7,3,7,5,8,Medium,No,Medium,< 40 hours,Self-study,Yes,Average,6,4,2 km,Yes,7
+2/4/2025 14:37,17,Female,"Greater than 70,000,000 per annum",Postgraduate,Public Health,200,4.5,4.5,B,B,B,A,B,10,4,10,10,10,High,No,Medium,50,Self-study,Yes,Average,8,5,2 km,Yes,10
+2/4/2025 14:46,18,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,3.35,3.35,B,B,B,B,B,9,3,9,2,9,Medium,Yes,Low,< 40 hours,Self-study,Yes,Average,4,2,1 km,Yes,9
+2/4/2025 15:08,21,Female,"< 30,000,000 naira/yesr",Secondary school,Computing,400,3.35,4,B,B,B,C,C,10,5,10,10,10,High,Yes,High,< 40 hours,Group Study,Yes,Poor,10,3,10km,Yes,10
+2/4/2025 15:26,20,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,4,4,B,B,A,B,B,7,4,7,7,7,High,No,Medium,< 40 hours,Self-study,Yes,Average,7,3,Less than 1 km,No,7
+2/4/2025 15:38,20,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,4,4,B,B,B,B,B,9,4,9,7,9,High,No,Medium,< 40 hours,Self-study,Yes,Average,5,4,2 km,No,10
+2/4/2025 15:47,21,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,,4,4,B,A,B,B,B,10,5,10,8,10,High,No,Medium,< 40 hours,Self-study,Yes,Average,3,4,2 km,No,10
+2/4/2025 16:08,18,Female,"< 30,000,000 naira/yesr",Postgraduate,Ben Carson College of Medical Sciences,200,4.5,4.5,A,A,B,A,A,10,5,8,8,10,High,No,High,< 40 hours,Self-study,No,Average,8,4,1 km,Yes,10
+2/4/2025 17:33,20,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,300,5,5,A,A,A,A,A,10,4,9,3,10,High,No,High,< 40 hours,Self-study,Yes,Average,1,5,2 km,No,10
+2/4/2025 18:32,19,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,400,4,4.5,B,B,B,C,C,10,4,8,6,10,Medium,No,High,< 40 hours,Self-study,Yes,Average,8,4,Less than 1 km,No,10
+2/4/2025 18:35,20,Male,"Greater than 70,000,000 per annum",Bachelor's,Computing,400,4,4,B,B,A,B,B,10,4,9,,10,Medium,Yes,Medium,< 40 hours,Self-study,No,Average,7,4,10km,Yes,10
+2/4/2025 18:37,19,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,400,4,4,B,B,C,B,B,10,4,8,7,10,Medium,No,Medium,< 40 hours,Self-study,No,Average,2,4,Less than 1 km,No,10
+2/4/2025 18:41,19,Female,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,400,3.35,4,C,B,B,B,B,8,3,8,4,8,Medium,Yes,Medium,< 40 hours,Self-study,Yes,Poor,5,3,I don?? know ,Yes,8
+2/4/2025 18:54,21,Male,"50,000,000-70,000,000 naira per annum",Postgraduate,Computing,400,4,4,B,B,B,C,C,8,5,10,5,8,Medium,No,Medium,< 40 hours,Self-study,Yes,Average,10,4,1 km,Yes,8
+2/4/2025 18:57,22,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,3.35,3.35,B,C,A,A,B,10,4,10,3,10,Medium,Yes,Medium,< 40 hours,Self-study,No,Average,7,4,1 km,No,10
+2/4/2025 19:04,21,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,3.35,4,B,B,B,B,B,8,4,8,5,9,Medium,No,Medium,< 40 hours,Group Study,Yes,Average,5,3,Less than 1 km,Yes,8
+2/4/2025 19:56,18,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,200,4,4,A,B,C,A,A,10,4,9,8,10,High,No,Medium,< 40 hours,Group Study,No,Average,8,5,Less than 1 km,No,10
+2/4/2025 19:59,21,Female,"< 30,000,000 naira/yesr",Secondary school,Computing,400,4,4,B,B,B,C,B,9,3,7,5,9,Medium,No,Medium,3,Self-study,No,Average,1,3,2 km,Yes,9
+2/4/2025 21:58,19,Female,"Greater than 70,000,000 per annum",Postgraduate,Computing,300,4.5,5,A,A,A,B,B,7,4,7,5,7,High,No,High,< 40 hours,Self-study,Yes,Average,5,5,Less than 1 km,Yes,7
+2/4/2025 22:00,23,Female,"< 30,000,000 naira/yesr",Bachelor's,Public Health,,4,4.5,C,B,C,C,B,10,5,9,10,10,High,No,,< 40 hours,Self-study,No,Good,9,5,2 km,Yes,10
+2/4/2025 22:02,19,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,400,4,4,A,A,A,A,B,5,4,7,7,7,Medium,No,Medium,< 40 hours,Self-study,Yes,Average,1,5,Less than 1 km,Yes,7
+2/4/2025 23:52,19,Male,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,300,4,4,B,C,C,B,B,8,4,9,7,8,High,Yes,Medium,< 40 hours,Self-study,Yes,Poor,5,4,2 km,No,8
+2/5/2025 3:38,18,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,200,4.5,4.5,A,A,B,B,A,10,4,10,7,10,High,No,High,< 40 hours,Self-study,Yes,Average,8,4,2 km,Yes,10
+2/5/2025 7:02,17,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,200,4.5,4.5,A,A,A,A,B,10,5,10,8,10,High,No,Medium,< 40 hours,Self-study,Yes,Average,8,4,2 km,No,10
+2/5/2025 7:10,17,Female,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,200,4,4,A,A,B,B,A,10,5,10,4,10,Medium,No,High,< 40 hours,Self-study,No,Average,1,4,2 km,No,10
+2/5/2025 7:27,18,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,200,4.5,4.5,A,A,A,A,B,9,4,7,8,9,High,No,Medium,< 40 hours,Self-study,Yes,Average,3,,Less than 1 km,No,9
+2/5/2025 7:34,19,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,3.35,3.35,B,B,B,B,B,8,5,8,8,8,Medium,Yes,Medium,< 40 hours,Self-study,Yes,Average,5,4,Less than 1 km,Yes,8
+2/5/2025 7:49,18,Female,"< 30,000,000 naira/yesr",Bachelor's,Nursing Science,200,3,3,C,B,C,C,C,7,4,7,7,7,Medium,No,Medium,< 40 hours,One-on-One tutoring,Yes,Average,4,4,1 km,Yes,7
+2/5/2025 8:00,18,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,4.5,4.5,A,B,A,A,B,10,5,8,1,10,High,No,Medium,50,Self-study,No,Average,7,4,1 km,No,10
+2/5/2025 8:13,18,Female,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,300,5,5,A,A,A,A,B,10,4,9,9,10,High,No,Medium,< 40 hours,Group Study,Yes,Average,6,5,Less than 1 km,Yes,
+2/5/2025 8:41,18,Male,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,4.5,4.5,A,A,B,A,A,10,5,8,10,10,High,No,High,< 40 hours,Self-study,No,Good,10,3,Off campus ,Yes,10
+2/5/2025 8:58,18,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,200,4.5,5,A,A,A,A,B,10,4,,9,8,High,No,Medium,< 40 hours,Group Study,Yes,Average,7,4,Less than 1 km,No,9
+2/5/2025 9:37,22,Male,"< 30,000,000 naira/yesr",Below secondsry school,Computing,300,4,4,C,B,A,B,B,9,4,10,8,9,Medium,No,Medium,20,Group Study,Yes,Average,8,4,Less than 1 km,No,9
+2/5/2025 10:00,19,Male,"30,000,000-50,000,000 naira per annum",Postgraduate,Computing,300,4,4,B,B,A,B,B,9,4,8,7,9,Medium,No,Medium,< 40 hours,Self-study,No,Good,8,4,2 km,No,8
+2/5/2025 10:59,19,Female,"Greater than 70,000,000 per annum",Postgraduate,Computing,400,3.35,4,C,C,C,C,C,8,5,10,5,8,Medium,No,Low,< 40 hours,Self-study,No,Average,8,3,2 km,Yes,8
+2/5/2025 11:12,18,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,200,4,4,B,A,B,B,B,9,3,7,3,9,Medium,No,Medium,< 40 hours,One-on-One tutoring,Yes,Poor,7,3,2 km,Yes,9
+2/5/2025 14:00,18,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,4.5,4.5,A,A,A,A,B,9,4,9,8,9,High,No,High,50,Self-study,No,Average,8,4,1 km,No,9
+2/5/2025 18:36,20,Female,"50,000,000-70,000,000 naira per annum",Bachelor's,Computing,500,4,4.5,B,B,B,B,A,10,5,10,8,10,High,No,High,< 40 hours,Self-study,No,Good,9,4,Less than 1 km,No,10
+2/5/2025 20:33,20,Male,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,500,4.5,4,B,A,B,A,A,8,4,9,7,7,High,Yes,Low,< 40 hours,Group Study,Yes,Poor,7,4,2 km,No,8
+2/5/2025 21:23,17,Male,"< 30,000,000 naira/yesr",Bachelor's,Computing,200,4,4,B,A,B,B,B,10,4,9,4,10,Medium,No,Medium,None,Self-study,Yes,Poor,5,4,Less than 1 km,Yes,10
+2/5/2025 21:40,20,Male,"50,000,000-70,000,000 naira per annum",Bachelor's,Computing,200,4.5,4.5,A,A,B,A,A,4,2,4,2,3,High,No,Medium,< 40 hours,Self-study,Yes,Average,10,5,1 km,No,4
+2/5/2025 23:16,18,Female,,Postgraduate,Computing,300,4.5,4.5,A,B,A,A,A,9,4,9,7,9,High,No,Medium,50,Self-study,No,Average,7,3,2 km,Yes,9
+2/6/2025 0:28,19,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,4.5,4,B,A,A,A,B,8,4,8,9,8,High,No,Low,< 40 hours,Self-study,Yes,Average,6,4,1 km,Yes,9
+2/6/2025 15:37,19,Male,"< 30,000,000 naira/yesr",Bachelor's,Computing,200,4,4,B,B,B,B,B,9,4,8,8,9,High,No,High,< 40 hours,Group Study,No,Average,8,4,Less than 1 km,Yes,9
+2/6/2025 15:45,17,Female,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,200,5,5,A,A,A,A,A,9,4,8,9,9,High,Yes,Medium,< 40 hours,Self-study,Yes,Average,5,3,Less than 1 km,Yes,9
+2/6/2025 15:49,18,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,200,4.5,4.5,A,A,A,A,A,9,4,9,9,9,High,No,High,I dont actually know,Group Study,Yes,Average,9,3,Too far. Like its to far ?? ,No,9
+2/6/2025 20:17,18,Male,"< 30,000,000 naira/yesr",Bachelor's,Computing,300,4,4.5,A,A,B,A,B,9,4,8,5,9,High,No,High,< 40 hours,Self-study,Yes,Average,8,3,Less than 1 km,Yes,9
+2/7/2025 10:20,20,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,400,4,4,A,A,C,B,C,8,4,7,6,8,Medium,No,Medium,< 40 hours,Group Study,No,Average,5,4,Less than 1 km,Yes,8
+2/7/2025 11:49,18,Female,"< 30,000,000 naira/yesr",Bachelor's,Nursing Science,200,4,4,B,B,B,C,C,10,4,9,9,10,High,No,Medium,< 40 hours,Self-study,No,Average,4,4,1 km,No,10
+2/7/2025 11:58,25,Female,"50,000,000-70,000,000 naira per annum",Bachelor's,Public Health,300,3.35,3.35,B,B,B,B,C,9,4,,10,10,High,Yes,High,60,Self-study,No,Average,8,5,2 km,Yes,9
+2/7/2025 13:13,19,Female,"30,000,000-50,000,000 naira per annum",Postgraduate,Computing,400,4,4.5,B,A,B,B,A,10,5,10,7,10,High,No,High,,One-on-One tutoring,Yes,Good,9,3,1 km,No,10
+2/7/2025 13:25,20,Female,"Greater than 70,000,000 per annum",Bachelor's,Nursing Science,500,4.5,4.5,B,B,B,A,A,10,5,10,10,10,High,No,High,50,Self-study,No,Good,2,5,2 km,No,10
+2/7/2025 14:14,34,Female,"< 30,000,000 naira/yesr",Postgraduate,Engineering,400,3.35,3.35,C,B,C,B,B,10,4,10,7,10,High,No,Medium,< 40 hours,Group Study,No,Average,5,5,2 km,Yes,10
+2/7/2025 19:12,21,Female,"30,000,000-50,000,000 naira per annum",,Public Health,400,4,4,B,B,B,C,C,10,5,9,10,10,High,No,High,50,Self-study,No,Average,4,4,2 km,Yes,10
+2/7/2025 19:19,18,Female,"< 30,000,000 naira/yesr",Postgraduate,,300,4,4,A,B,B,B,B,9,4,9,7,9,High,No,High,< 40 hours,Self-study,No,Average,1,3,2 km,No,9
+2/7/2025 22:06,18,Female,,Bachelor's,Computing,300,4,4,A,A,B,A,A,10,5,10,10,10,High,No,High,,Self-study,No,Good,5,4,2 km,,10
+2/8/2025 7:42,19,Female,"30,000,000-50,000,000 naira per annum",Postgraduate,Computing,400,5,5,B,A,A,A,A,9,4,8,8,9,High,No,High,< 40 hours,Self-study,Yes,Good,3,5,Less than 1 km,Yes,9
+2/8/2025 7:55,17,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,200,5,4.5,A,A,A,A,A,8,4,9,7,8,High,No,Medium,< 40 hours,Self-study,Yes,Average,2,4,2 km,Yes,8
+2/8/2025 11:30,18,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,4,4.5,B,A,A,B,E,7,4,9,8,8,High,No,Medium,< 40 hours,Self-study,Yes,Average,7,4,Less than 1 km,Yes,7
+2/8/2025 12:06,18,Male,"< 30,000,000 naira/yesr",Bachelor's,Computing,200,4.5,4.5,A,A,B,A,B,7,4,8,8,6,High,No,Medium,< 40 hours,Online Courses,Yes,Average,10,4,1 km,No,8
+2/8/2025 13:13,18,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,400,4,4,B,B,B,A,B,9,5,10,10,9,High,Yes,High,< 40 hours,Self-study,Yes,Good,6,5,1 km,Yes,9
+2/8/2025 16:18,19,Male,"< 30,000,000 naira/yesr",Secondary school,Engineering,300,4.5,4,A,A,B,A,A,6,3,7,5,6,Medium,No,Medium,< 40 hours,Self-study,No,Average,2,4,20 Minutes Walk,No,6
+2/8/2025 16:27,18,Female,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,300,4,4.5,A,A,A,B,B,10,4,9,8,9,High,Yes,High,50,Online Courses,Yes,Average,9,4,Less than 1 km,Yes,9
+2/8/2025 21:25,19,Male,"< 30,000,000 naira/yesr",Postgraduate,Computing,300,4,4,B,B,A,B,A,8,4,3,4,1,Low,No,Low,< 40 hours,One-on-One tutoring,Yes,Poor,5,3,2 km,,2
+2/8/2025 21:28,22,Female,"50,000,000-70,000,000 naira per annum",Postgraduate,Public Health,400,4.5,4.5,A,A,A,A,A,10,5,10,10,10,High,No,High,60,Self-study,No,Good,5,5,Less than 1 km,No,8
+2/8/2025 21:45,24,Male,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,400,4,4,A,B,B,B,C,10,5,10,10,10,High,No,High,60,Self-study,Yes,Good,2,5,Less than 1 km,Yes,10
+2/8/2025 21:47,23,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,4,4,B,B,B,B,C,10,5,10,9,10,High,No,High,60,Self-study,Yes,Good,2,5,Less than 1 km,Yes,10
+2/8/2025 21:59,21,Male,"Greater than 70,000,000 per annum",Bachelor's,Computing,400,4,4,B,B,C,B,C,8,3,6,4,8,Medium,No,Medium,< 40 hours,Self-study,Yes,Poor,8,3,1 km,Yes,8
+2/8/2025 23:10,24,Male,"Greater than 70,000,000 per annum",Postgraduate,Computing,300,4.5,4.5,A,A,A,A,A,9,5,10,10,10,High,No,High,Depends ,Self-study,No,Average,1,4,2 km,No,10
+2/8/2025 23:33,17,Female,"Greater than 70,000,000 per annum",Bachelor's,Computing,200,4,4,B,C,B,B,C,9,4,8,5,8,Medium,No,Medium,< 40 hours,Self-study,Yes,Poor,6,3,2 km,,9
+2/8/2025 23:46,16,Male,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,200,4.5,4,C,B,A,A,B,8,5,10,10,10,High,Yes,Low,< 40 hours,Self-study,Yes,Poor,7,4,,Yes,7
+2/9/2025 0:16,19,Male,,Postgraduate,Computing,400,4,4,B,B,A,B,B,1,1,1,3,1,High,No,Low,< 40 hours,Self-study,Yes,Good,1,1,1 km,Yes,1
+2/9/2025 9:52,21,Female,"Greater than 70,000,000 per annum",Bachelor's,Computing,200,4,4,C,B,B,B,B,8,5,10,7,8,Medium,No,Medium,20,Self-study,No,Average,1,4,Less than 1 km,No,8
+2/9/2025 11:30,19,Female,"30,000,000-50,000,000 naira per annum",Postgraduate,Computing,400,4,4,B,B,B,B,B,7,4,8,6,8,Medium,Yes,Medium,< 40 hours,Self-study,Yes,Average,7,5,Less than 1 km,Yes,7
+2/9/2025 11:35,19,Female,"< 30,000,000 naira/yesr",Postgraduate,Computing,400,4,4,B,B,B,B,B,8,4,9,4,9,High,No,Medium,< 40 hours,Self-study,Yes,Average,7,4,,No,9
+2/9/2025 12:05,22,Male,"50,000,000-70,000,000 naira per annum",Bachelor's,Computing,400,3.35,3.35,B,B,B,A,B,9,4,8,7,8,Medium,No,Medium,< 40 hours,Self-study,No,Average,6,4,10km??,No,9
+2/9/2025 12:40,21,Male,,Bachelor's,Computing,400,4,4,A,A,B,B,C,9,3,7,1,9,Medium,No,Medium,< 40 hours,Self-study,Yes,Average,7,2,Less than 1 km,No,9
+2/9/2025 13:31,20,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,4,4,A,A,A,B,B,10,5,10,6,10,High,Yes,Medium,< 40 hours,Group Study,Yes,Average,7,5,2 km,Yes,10
+2/9/2025 13:36,21,Female,"< 30,000,000 naira/yesr",Bachelor's,Computing,400,4.5,4.5,A,B,B,B,B,10,5,10,10,10,High,Yes,High,< 40 hours,Self-study,Yes,Poor,10,5,10km,Yes,10
+2/9/2025 14:38,20,Female,"< 30,000,000 naira/yesr",Bachelor's,Public Health,500,3,4,B,C,C,B,B,8,4,7,7,8,Medium,Yes,Medium,20,Self-study,No,Average,5,3,Less than 1 km,Yes,8
+2/9/2025 15:18,22,Female,"50,000,000-70,000,000 naira per annum",Postgraduate,,500,3.35,4,C,B,B,C,B,8,4,8,6,7,High,No,High,10,Self-study,No,Average,6,4,1 km,Yes,9
+2/9/2025 15:37,19,Female,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,300,3.35,4.5,A,A,B,A,A,9,4,9,8,9,Medium,No,Medium,20,Self-study,Yes,Average,5,2,1 km,Yes,9
+2/9/2025 15:40,18,Male,"30,000,000-50,000,000 naira per annum",Bachelor's,Computing,300,3.35,4,B,B,B,B,C,6,4,7,8,8,High,No,High,10,Self-study,No,Good,1,4,2 km,Yes,7

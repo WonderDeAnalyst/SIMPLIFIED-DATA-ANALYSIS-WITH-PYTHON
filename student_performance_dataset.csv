@@ -1,0 +1,101 @@
+Student_ID,Age,Gender,Study_Hours_per_Week,Previous_Scores,Class_Participation,Attendance_Rate,Parental_Education_Level,Extra_Curricular_Activities,Internet_Access_at_Home,Socioeconomic_Status,Health_Issues,Motivation_Level,Peer_Influence,Time_Management_Skills,Family_Support,Stress_Level,Learning_Style,Previous_GPA
+1,23,Male,16,94,65,52,Postgraduate,No,Yes,Low,Yes,High,Neutral,Average,Medium,High,Auditory,1.0 - 2.0
+2,21,Female,7,76,66,84,Undergraduate,Yes,No,High,Yes,Low,Negative,Good,Low,Medium,Visual,2.1 - 2.5
+3,19,Female,31,60,74,60,Undergraduate,No,Yes,Low,No,Medium,Negative,Poor,Medium,Low,Auditory,3.5 - 4.0
+4,21,Female,24,94,69,76,Graduate,No,No,High,Yes,Medium,Negative,Good,High,Medium,Visual,4.6 - 5.0
+5,23,Female,30,89,93,66,Postgraduate,No,Yes,High,No,Medium,Neutral,Poor,High,Medium,Kinesthetic,4.6 - 5.0
+6,18,Female,37,96,71,64,High School,Yes,No,Medium,No,Low,Neutral,Average,Low,Medium,Auditory,2.6 - 3.0
+7,22,Male,13,93,83,78,Undergraduate,No,Yes,Medium,Yes,Low,Positive,Poor,High,Low,Visual,3.5 - 4.0
+8,22,Male,30,96,70,93,Graduate,Yes,No,Low,Yes,High,Neutral,Good,Medium,High,Auditory,4.6 - 5.0
+9,22,Female,26,83,97,73,Graduate,Yes,No,Medium,Yes,Medium,Negative,Good,High,High,Visual,3.0 - 3.5
+10,21,Female,18,70,56,53,Undergraduate,No,No,High,Yes,Medium,Neutral,Poor,Low,High,Auditory,3.5 - 4.0
+11,24,Male,39,72,72,76,Postgraduate,Yes,No,Low,No,Medium,Positive,Poor,High,Medium,Visual,4.1 - 4.5
+12,20,Female,31,90,78,71,Postgraduate,Yes,Yes,High,Yes,Low,Neutral,Poor,High,High,Visual,3.0 - 3.5
+13,20,Female,25,62,76,55,Graduate,No,No,High,No,High,Positive,Good,Low,Low,Auditory,4.6 - 5.0
+14,23,Female,28,64,56,95,Graduate,Yes,Yes,High,No,High,Neutral,Good,Low,Low,Visual,3.5 - 4.0
+15,24,Male,10,95,63,94,High School,Yes,No,Low,Yes,Low,Neutral,Average,High,High,Kinesthetic,4.1 - 4.5
+16,22,Male,24,76,63,89,Undergraduate,Yes,No,Medium,No,High,Neutral,Average,Medium,Low,Visual,4.1 - 4.5
+17,20,Male,13,80,81,62,Postgraduate,Yes,No,Low,No,Low,Positive,Average,Medium,Medium,Visual,1.0 - 2.0
+18,20,Female,31,97,61,92,Graduate,Yes,Yes,High,Yes,High,Neutral,Poor,Low,Low,Visual,3.5 - 4.0
+19,21,Male,19,69,99,63,High School,Yes,No,Low,Yes,Low,Neutral,Average,Medium,High,Kinesthetic,3.5 - 4.0
+20,23,Male,29,68,73,77,Undergraduate,No,No,Low,Yes,High,Positive,Good,High,High,Kinesthetic,4.6 - 5.0
+21,21,Male,23,68,67,59,High School,Yes,Yes,Low,Yes,Low,Negative,Average,Low,Medium,Kinesthetic,2.6 - 3.0
+22,20,Male,13,54,73,72,High School,Yes,Yes,High,Yes,Medium,Negative,Good,Medium,High,Visual,4.6 - 5.0
+23,18,Male,5,51,89,64,Postgraduate,No,No,Medium,Yes,Medium,Positive,Good,Low,High,Visual,2.6 - 3.0
+24,22,Female,27,56,84,83,Postgraduate,No,No,Low,Yes,Medium,Negative,Poor,Medium,Low,Kinesthetic,3.5 - 4.0
+25,22,Female,20,72,63,98,Undergraduate,No,No,High,No,High,Positive,Average,Medium,Low,Visual,1.0 - 2.0
+26,20,Male,9,51,62,62,Undergraduate,Yes,No,Medium,Yes,High,Neutral,Poor,Low,Medium,Visual,2.6 - 3.0
+27,21,Female,29,80,62,71,High School,Yes,Yes,Low,No,High,Positive,Poor,Medium,Medium,Auditory,4.6 - 5.0
+28,22,Female,9,83,75,54,Undergraduate,Yes,No,Low,No,Medium,Neutral,Good,High,High,Visual,3.5 - 4.0
+29,24,Female,14,75,56,76,High School,Yes,Yes,Medium,Yes,Low,Positive,Poor,High,Low,Auditory,3.5 - 4.0
+30,20,Female,38,55,52,52,High School,No,No,Medium,No,High,Positive,Poor,Medium,Medium,Visual,4.1 - 4.5
+31,18,Male,24,70,76,81,Postgraduate,Yes,Yes,High,Yes,High,Negative,Poor,High,Medium,Visual,4.6 - 5.0
+32,21,Female,38,52,93,96,High School,Yes,Yes,Medium,Yes,High,Positive,Good,Medium,Medium,Visual,3.0 - 3.5
+33,18,Male,23,71,94,68,Undergraduate,No,No,High,No,High,Negative,Poor,High,High,Auditory,4.6 - 5.0
+34,24,Female,30,87,56,88,High School,Yes,Yes,Low,No,Low,Negative,Average,Low,High,Visual,3.0 - 3.5
+35,18,Female,6,84,65,59,Undergraduate,Yes,No,High,Yes,Low,Positive,Poor,Medium,Low,Auditory,1.0 - 2.0
+36,23,Female,6,75,63,78,Undergraduate,Yes,No,Low,No,High,Positive,Good,Low,High,Kinesthetic,1.0 - 2.0
+37,20,Female,32,73,87,80,Postgraduate,No,Yes,High,No,High,Negative,Poor,Medium,High,Kinesthetic,3.0 - 3.5
+38,22,Male,32,58,64,76,Graduate,No,Yes,Low,No,High,Neutral,Poor,High,High,Auditory,3.5 - 4.0
+39,18,Male,22,51,75,99,Graduate,No,Yes,Low,Yes,High,Positive,Average,Low,Low,Kinesthetic,3.0 - 3.5
+40,21,Male,37,55,87,51,Graduate,No,No,Medium,No,Low,Negative,Good,High,Low,Visual,3.5 - 4.0
+41,23,Female,20,83,53,61,Undergraduate,Yes,No,Low,No,High,Positive,Average,Low,Medium,Auditory,4.1 - 4.5
+42,18,Female,20,98,62,54,High School,No,Yes,High,Yes,High,Positive,Average,High,Medium,Kinesthetic,2.6 - 3.0
+43,21,Male,7,53,54,68,High School,Yes,No,Low,No,High,Neutral,Average,Low,Medium,Kinesthetic,2.6 - 3.0
+44,19,Female,38,91,98,82,Postgraduate,No,Yes,Low,Yes,Low,Negative,Poor,Medium,Medium,Visual,2.1 - 2.5
+45,19,Female,6,86,56,50,Graduate,No,No,High,No,High,Neutral,Good,Low,Low,Visual,4.1 - 4.5
+46,20,Female,36,78,61,53,Undergraduate,Yes,Yes,High,No,Low,Neutral,Average,Low,High,Kinesthetic,4.6 - 5.0
+47,21,Female,25,84,51,66,Postgraduate,No,Yes,Low,Yes,High,Positive,Poor,Low,High,Kinesthetic,1.0 - 2.0
+48,18,Female,29,62,99,72,Postgraduate,Yes,No,Medium,Yes,Low,Positive,Average,Medium,High,Visual,2.1 - 2.5
+49,18,Female,6,95,75,93,Postgraduate,Yes,Yes,Medium,Yes,Low,Negative,Poor,Low,Medium,Auditory,4.6 - 5.0
+50,18,Female,23,95,68,86,High School,Yes,No,Medium,No,High,Positive,Poor,High,Medium,Auditory,1.0 - 2.0
+51,21,Female,10,66,55,66,Undergraduate,No,Yes,Low,Yes,Medium,Negative,Poor,High,High,Visual,3.5 - 4.0
+52,20,Male,36,79,69,68,High School,No,Yes,Medium,Yes,High,Positive,Poor,High,Medium,Auditory,3.0 - 3.5
+53,18,Male,21,84,62,83,Undergraduate,Yes,Yes,Medium,Yes,Medium,Positive,Good,Low,Medium,Kinesthetic,3.0 - 3.5
+54,19,Male,8,95,79,88,Postgraduate,No,Yes,High,Yes,Low,Positive,Average,High,High,Kinesthetic,3.5 - 4.0
+55,22,Female,22,93,99,67,Graduate,Yes,Yes,Medium,Yes,Medium,Neutral,Poor,High,High,Visual,2.1 - 2.5
+56,18,Male,7,68,76,89,Graduate,No,Yes,Low,No,Low,Neutral,Poor,Medium,High,Kinesthetic,1.0 - 2.0
+57,19,Female,7,55,98,67,High School,No,No,High,No,Medium,Neutral,Good,Low,Medium,Auditory,2.6 - 3.0
+58,23,Female,19,51,64,51,Undergraduate,No,No,Low,No,Medium,Negative,Poor,High,Low,Auditory,3.5 - 4.0
+59,20,Female,11,62,57,80,High School,No,Yes,Medium,Yes,High,Neutral,Average,Low,Medium,Kinesthetic,3.0 - 3.5
+60,21,Male,23,82,98,89,High School,Yes,No,Medium,No,High,Positive,Poor,Low,Low,Auditory,3.5 - 4.0
+61,18,Female,5,92,97,63,Postgraduate,No,Yes,High,No,High,Neutral,Average,Low,Low,Auditory,2.1 - 2.5
+62,19,Male,39,61,72,69,Undergraduate,Yes,Yes,Low,Yes,Medium,Neutral,Poor,Medium,Medium,Kinesthetic,4.1 - 4.5
+63,21,Female,34,70,54,83,High School,Yes,Yes,Low,No,Medium,Neutral,Average,Medium,High,Auditory,3.0 - 3.5
+64,20,Male,19,72,59,98,Undergraduate,Yes,Yes,Low,No,High,Neutral,Average,Medium,Low,Visual,2.1 - 2.5
+65,22,Female,29,55,95,77,Undergraduate,No,No,Medium,No,Medium,Neutral,Average,High,Low,Visual,3.5 - 4.0
+66,20,Female,16,79,96,73,Undergraduate,No,Yes,Low,Yes,High,Negative,Good,Medium,Low,Auditory,1.0 - 2.0
+67,22,Female,37,55,66,95,Undergraduate,No,No,Medium,Yes,Medium,Negative,Poor,High,Low,Visual,2.6 - 3.0
+68,23,Male,28,74,75,94,Postgraduate,No,Yes,Medium,Yes,Low,Positive,Average,Low,High,Kinesthetic,4.1 - 4.5
+69,20,Male,7,90,65,85,Postgraduate,No,Yes,High,No,High,Negative,Poor,High,Low,Visual,3.5 - 4.0
+70,24,Female,22,76,67,77,Graduate,Yes,No,Low,Yes,Low,Positive,Poor,Low,Low,Kinesthetic,4.1 - 4.5
+71,22,Male,36,94,55,90,High School,Yes,No,Medium,No,Medium,Negative,Poor,High,High,Auditory,3.5 - 4.0
+72,20,Female,35,59,91,65,Postgraduate,No,No,Low,No,High,Negative,Good,High,Medium,Auditory,1.0 - 2.0
+73,19,Female,10,84,67,60,Postgraduate,Yes,No,Low,No,Low,Neutral,Average,Medium,High,Visual,3.0 - 3.5
+74,24,Female,28,73,68,83,Undergraduate,Yes,No,Low,No,Low,Negative,Average,Low,High,Kinesthetic,4.6 - 5.0
+75,24,Male,9,50,84,78,Undergraduate,Yes,Yes,Low,Yes,Low,Neutral,Good,Low,Medium,Visual,4.6 - 5.0
+76,19,Female,17,89,94,51,High School,Yes,Yes,Medium,No,High,Positive,Good,Low,High,Visual,2.6 - 3.0
+77,19,Male,35,79,99,65,Undergraduate,Yes,Yes,Medium,No,Medium,Negative,Good,High,Medium,Visual,4.6 - 5.0
+78,22,Female,21,97,80,89,Undergraduate,Yes,No,High,No,Medium,Positive,Poor,High,Low,Visual,1.0 - 2.0
+79,19,Female,12,60,86,74,Graduate,No,Yes,Low,Yes,Medium,Negative,Good,High,High,Auditory,2.6 - 3.0
+80,20,Male,15,99,55,52,Postgraduate,No,Yes,Medium,Yes,High,Positive,Poor,Low,High,Kinesthetic,4.6 - 5.0
+81,23,Male,20,50,77,92,Postgraduate,No,No,High,No,Medium,Negative,Average,Medium,Medium,Visual,2.6 - 3.0
+82,21,Female,10,81,75,86,Graduate,No,Yes,Low,Yes,High,Neutral,Poor,Low,Medium,Kinesthetic,4.6 - 5.0
+83,18,Female,24,59,97,92,Graduate,Yes,Yes,High,No,High,Negative,Poor,High,High,Visual,1.0 - 2.0
+84,23,Female,9,92,74,96,High School,Yes,Yes,Medium,Yes,Low,Neutral,Average,Medium,Low,Kinesthetic,4.6 - 5.0
+85,23,Male,21,53,59,80,Graduate,Yes,No,Low,Yes,Low,Positive,Good,Medium,Medium,Auditory,1.0 - 2.0
+86,23,Male,19,59,97,94,High School,Yes,Yes,High,No,High,Negative,Good,Low,High,Auditory,3.0 - 3.5
+87,24,Male,37,52,91,76,Postgraduate,Yes,No,Low,Yes,Medium,Positive,Good,Low,Medium,Visual,4.6 - 5.0
+88,22,Female,32,86,75,93,Graduate,Yes,Yes,Low,Yes,Low,Negative,Average,High,Medium,Kinesthetic,3.0 - 3.5
+89,23,Male,36,73,75,86,Undergraduate,Yes,Yes,Medium,Yes,Medium,Neutral,Good,Low,Low,Visual,1.0 - 2.0
+90,24,Male,10,58,82,98,Undergraduate,No,No,High,Yes,Low,Positive,Good,Low,Medium,Visual,2.6 - 3.0
+91,24,Male,24,98,78,84,Undergraduate,Yes,No,Medium,No,High,Negative,Average,Medium,Medium,Visual,1.0 - 2.0
+92,24,Female,37,81,77,56,Postgraduate,No,Yes,Low,Yes,High,Positive,Good,Medium,High,Visual,3.0 - 3.5
+93,20,Female,31,55,75,63,Graduate,Yes,Yes,High,No,High,Positive,Average,Low,Medium,Auditory,3.5 - 4.0
+94,22,Female,20,77,67,63,Postgraduate,Yes,Yes,Low,No,High,Positive,Poor,Low,Low,Kinesthetic,4.6 - 5.0
+95,20,Male,20,83,83,54,Graduate,Yes,Yes,Low,Yes,High,Neutral,Good,Low,Low,Auditory,4.1 - 4.5
+96,20,Male,30,86,83,63,Postgraduate,Yes,No,High,Yes,High,Positive,Average,Medium,Low,Kinesthetic,3.0 - 3.5
+97,22,Male,26,90,86,85,Graduate,No,No,Low,No,High,Neutral,Average,Medium,Low,Auditory,2.6 - 3.0
+98,18,Male,30,78,60,77,Graduate,Yes,No,High,Yes,High,Neutral,Good,Low,Medium,Visual,2.1 - 2.5
+99,20,Male,24,79,93,76,Undergraduate,No,Yes,High,Yes,High,Positive,Poor,Medium,Medium,Kinesthetic,4.1 - 4.5
+100,23,Female,18,78,73,92,Graduate,Yes,Yes,Medium,Yes,Low,Negative,Good,High,High,Visual,1.0 - 2.0

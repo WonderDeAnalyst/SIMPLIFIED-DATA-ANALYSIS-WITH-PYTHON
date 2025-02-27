@@ -1,0 +1,501 @@
+Student_ID,Age,Gender,Study_Hours_per_Week,Previous_Scores,Class_Participation,Attendance_Rate,Parental_Education_Level,Extra_Curricular_Activities,Internet_Access_at_Home,Socioeconomic_Status,Health_Issues,Motivation_Level,Peer_Influence,Time_Management_Skills,Family_Support,Stress_Level,Learning_Style,Previous_GPA,Final_Performance
+1,24,Female,15,73,96,65,Master,Yes,No,Low,No,High,Positive,Poor,Moderate,High,Auditory,2.260706260086531,High
+2,21,Female,27,56,64,96,PhD,Yes,Yes,Medium,No,Medium,Positive,Good,Weak,Medium,Kinesthetic,2.407069747773793,Average
+3,28,Female,20,76,81,64,Bachelor,No,Yes,High,No,Medium,Negative,Poor,Moderate,Medium,Visual,3.5381222663194487,Average
+4,25,Female,35,64,60,74,Bachelor,Yes,Yes,Low,No,Medium,Positive,Average,Weak,High,Auditory,2.8510113185436854,Low
+5,22,Male,15,77,72,85,High School,No,Yes,High,Yes,Low,Positive,Average,Strong,High,Auditory,3.130831879505076,High
+6,24,Female,20,97,75,60,High School,No,Yes,High,Yes,Low,Negative,Good,Weak,Low,Kinesthetic,2.0420183139727213,Low
+7,27,Female,12,51,83,64,PhD,Yes,No,Medium,No,Medium,Positive,Poor,Strong,High,Auditory,2.068862617146629,Low
+8,20,Female,8,62,95,53,Master,No,No,Medium,Yes,Medium,Positive,Average,Strong,Low,Auditory,2.891651099654032,Low
+9,24,Female,44,92,83,70,PhD,No,No,Medium,Yes,Low,Negative,Average,Weak,High,Visual,3.6333104864032473,High
+10,28,Female,8,81,78,62,PhD,Yes,No,Medium,No,Low,Neutral,Average,Strong,Medium,Visual,3.7704777574151302,Low
+11,28,Male,29,61,53,71,PhD,No,No,Medium,Yes,Low,Negative,Good,Weak,Low,Kinesthetic,2.1734131351912804,Low
+12,25,Male,7,60,66,68,PhD,No,No,Medium,No,Low,Positive,Average,Weak,Low,Kinesthetic,3.0767262042020453,Low
+13,22,Female,36,66,84,83,Bachelor,Yes,Yes,Medium,No,Medium,Positive,Average,Strong,Low,Auditory,3.826459372558541,Average
+14,21,Male,7,96,62,63,Master,No,Yes,Medium,Yes,Low,Positive,Poor,Strong,High,Visual,2.7759455087957727,Low
+15,25,Female,31,70,90,53,Bachelor,Yes,No,Low,Yes,Medium,Negative,Poor,Moderate,Medium,Kinesthetic,3.659131662856737,High
+16,25,Female,33,45,88,97,Master,No,No,High,No,High,Positive,Average,Strong,Low,Kinesthetic,2.2673913087988726,High
+17,20,Male,36,66,64,95,High School,Yes,Yes,Medium,No,High,Positive,Average,Moderate,Low,Kinesthetic,3.8707889793355976,Average
+18,23,Male,23,79,78,76,PhD,Yes,Yes,Medium,Yes,Low,Negative,Poor,Strong,Low,Auditory,3.502846635062605,High
+19,22,Female,25,73,78,78,Bachelor,Yes,Yes,High,No,High,Neutral,Good,Weak,Low,Visual,3.882668785573803,High
+20,19,Female,9,51,60,96,Master,No,No,Low,No,High,Neutral,Good,Strong,Medium,Kinesthetic,3.353234467105013,Average
+21,25,Female,22,84,81,77,High School,Yes,No,High,No,High,Positive,Good,Weak,High,Visual,2.7268078639988538,Low
+22,29,Male,32,96,51,84,High School,Yes,No,High,Yes,Low,Negative,Good,Weak,Medium,Kinesthetic,3.876362345049445,Average
+23,23,Female,46,92,96,57,PhD,Yes,Yes,Medium,No,Low,Positive,Good,Weak,Low,Kinesthetic,2.551133552618357,Low
+24,19,Female,26,46,63,65,Master,Yes,Yes,High,Yes,High,Negative,Good,Moderate,Medium,Visual,2.664345044123465,Low
+25,29,Female,25,49,69,91,Bachelor,Yes,No,High,No,Medium,Negative,Good,Strong,Low,Visual,3.4016168360034804,High
+26,22,Male,10,84,71,85,PhD,No,No,Medium,Yes,High,Neutral,Good,Weak,High,Visual,3.5306325990507723,Average
+27,18,Female,5,56,60,79,Bachelor,No,Yes,Medium,No,Low,Neutral,Poor,Weak,High,Auditory,3.8588069676983077,High
+28,29,Female,9,65,76,67,High School,No,Yes,Medium,Yes,Low,Negative,Good,Moderate,High,Kinesthetic,2.409604818112419,High
+29,27,Male,45,60,52,51,Bachelor,No,Yes,Medium,Yes,Low,Positive,Good,Strong,Low,Auditory,3.595996070438448,Low
+30,23,Female,16,67,66,98,Bachelor,No,Yes,High,Yes,High,Neutral,Good,Strong,Medium,Visual,3.477092106793927,High
+31,29,Female,30,97,93,62,PhD,No,No,High,No,Medium,Positive,Average,Moderate,High,Kinesthetic,2.127589112507196,Average
+32,26,Male,38,85,77,53,Bachelor,No,Yes,Low,No,Low,Neutral,Poor,Moderate,Low,Auditory,2.774446282420414,High
+33,18,Female,18,41,78,75,PhD,Yes,Yes,Low,No,Low,Neutral,Poor,Strong,Low,Kinesthetic,2.565530914120197,High
+34,28,Male,30,99,70,74,High School,No,Yes,High,Yes,High,Positive,Poor,Moderate,Medium,Auditory,2.608980848708061,Low
+35,28,Male,49,93,96,79,PhD,Yes,No,Low,No,Medium,Neutral,Good,Strong,High,Visual,3.9658937591094015,Average
+36,27,Female,31,82,65,60,PhD,Yes,No,High,Yes,High,Neutral,Good,Strong,Low,Auditory,3.2855548269598556,High
+37,29,Female,13,40,86,56,Master,No,Yes,Low,No,Low,Positive,Average,Weak,Medium,Kinesthetic,3.435352315586999,Low
+38,29,Female,30,90,69,80,Bachelor,Yes,Yes,Medium,Yes,Medium,Neutral,Poor,Weak,High,Kinesthetic,3.9532352746300186,High
+39,20,Female,26,92,55,93,High School,Yes,Yes,Low,Yes,Medium,Neutral,Good,Strong,Medium,Kinesthetic,2.754403564915277,Average
+40,29,Male,34,75,68,59,PhD,Yes,No,Medium,Yes,Low,Neutral,Poor,Strong,Medium,Kinesthetic,3.6036803369056116,High
+41,24,Female,47,90,54,88,High School,Yes,No,Medium,No,Medium,Positive,Average,Strong,Low,Visual,2.8690619266089907,High
+42,21,Male,21,65,52,62,Master,No,No,Medium,No,Medium,Negative,Average,Strong,Low,Auditory,3.7390673436299595,Low
+43,26,Female,30,68,50,80,Bachelor,No,Yes,Medium,No,High,Positive,Average,Strong,Low,Visual,2.3613150826226064,High
+44,20,Female,40,60,87,56,PhD,No,No,Low,Yes,Low,Negative,Poor,Strong,Medium,Visual,3.8953723541285594,Low
+45,22,Female,5,50,64,98,Bachelor,No,Yes,High,Yes,Low,Neutral,Good,Moderate,Low,Visual,2.437543416821759,Average
+46,20,Male,12,79,83,91,Master,No,Yes,Medium,No,Low,Negative,Good,Strong,Medium,Kinesthetic,2.6524410139618633,High
+47,24,Female,39,50,84,91,Master,No,Yes,Low,No,Low,Positive,Average,Moderate,Medium,Kinesthetic,3.512384468213561,Average
+48,22,Female,19,75,98,85,High School,No,No,Medium,No,Low,Positive,Good,Moderate,Low,Kinesthetic,2.787510283130813,Average
+49,26,Female,26,88,74,69,PhD,No,Yes,Low,Yes,Medium,Neutral,Average,Strong,High,Auditory,3.2164227535328935,High
+50,24,Female,18,98,73,53,High School,No,No,Low,Yes,High,Negative,Poor,Strong,High,Kinesthetic,2.889147002138857,Low
+51,19,Male,30,78,61,56,Master,No,No,Low,Yes,Low,Neutral,Average,Moderate,High,Auditory,3.4847398741795637,Average
+52,21,Female,32,79,67,50,Bachelor,Yes,Yes,High,Yes,High,Neutral,Poor,Moderate,Medium,Kinesthetic,2.4566625047372215,Average
+53,26,Male,27,74,64,93,High School,No,Yes,Low,Yes,High,Positive,Average,Strong,Medium,Kinesthetic,2.116915974473754,High
+54,29,Male,18,93,93,94,High School,Yes,No,Low,No,Medium,Negative,Good,Strong,Medium,Visual,2.5998587949461323,High
+55,19,Male,28,73,65,91,Bachelor,Yes,Yes,High,Yes,Low,Negative,Good,Moderate,Low,Visual,2.9486173297368605,High
+56,27,Male,6,94,76,96,High School,Yes,No,High,Yes,Medium,Negative,Average,Moderate,Medium,Visual,2.336040104385357,High
+57,26,Male,49,86,57,62,Bachelor,Yes,Yes,Low,Yes,Low,Negative,Good,Moderate,Low,Auditory,2.7095945793127774,High
+58,27,Male,30,63,95,71,PhD,No,No,High,Yes,Medium,Neutral,Good,Weak,Low,Auditory,2.7999660365871373,High
+59,22,Female,18,93,74,70,Bachelor,Yes,No,Medium,Yes,High,Neutral,Good,Moderate,High,Kinesthetic,2.114783687376547,Low
+60,19,Male,11,61,66,71,PhD,No,No,Medium,No,Low,Positive,Poor,Weak,High,Auditory,3.166614496368409,Average
+61,21,Male,7,44,78,77,Bachelor,No,No,High,Yes,High,Neutral,Good,Strong,High,Kinesthetic,3.7686868559425752,Low
+62,29,Male,27,95,57,58,Master,Yes,Yes,High,Yes,High,Neutral,Poor,Strong,Low,Auditory,2.3034858259061046,Low
+63,29,Female,47,72,64,75,Master,No,Yes,Low,Yes,Medium,Positive,Average,Moderate,Low,Auditory,3.195616026803028,High
+64,24,Female,49,97,76,58,PhD,Yes,No,High,No,Low,Positive,Good,Strong,Low,Auditory,3.3294784098216925,Average
+65,29,Male,22,75,95,64,PhD,Yes,No,Low,No,High,Positive,Good,Strong,Medium,Visual,2.8386693608385767,Low
+66,25,Female,42,86,99,59,Master,No,Yes,Medium,No,Medium,Neutral,Good,Strong,Low,Auditory,3.40219517472854,High
+67,20,Male,39,59,56,73,PhD,No,Yes,High,Yes,Low,Neutral,Average,Strong,High,Visual,2.821463086982024,High
+68,18,Male,19,58,52,91,Bachelor,Yes,Yes,Low,No,Low,Positive,Poor,Weak,High,Visual,3.00927457595487,Average
+69,21,Female,29,74,78,57,Bachelor,No,Yes,Low,Yes,High,Positive,Poor,Weak,Low,Auditory,2.014706089108854,Low
+70,19,Male,41,91,93,73,Master,No,Yes,Medium,Yes,Low,Positive,Good,Moderate,Low,Kinesthetic,3.383440228269378,Low
+71,25,Female,32,82,73,65,High School,No,Yes,High,No,High,Neutral,Average,Moderate,High,Kinesthetic,3.3226853578894486,Low
+72,21,Female,14,56,52,98,Bachelor,Yes,No,Medium,Yes,Low,Neutral,Average,Moderate,Low,Kinesthetic,2.0768017546526893,High
+73,19,Male,43,98,69,75,PhD,Yes,Yes,Low,Yes,Medium,Negative,Average,Strong,High,Auditory,2.736500214790266,Average
+74,23,Male,21,84,95,76,High School,No,Yes,Low,Yes,High,Neutral,Average,Strong,Medium,Kinesthetic,3.9580636815833348,Average
+75,23,Female,43,82,64,86,High School,No,No,High,No,High,Neutral,Average,Weak,High,Visual,2.8414731251372336,Low
+76,27,Male,26,73,74,53,Bachelor,No,Yes,Low,Yes,Low,Neutral,Poor,Weak,Medium,Kinesthetic,3.0038908102636834,High
+77,21,Male,30,48,79,99,Bachelor,No,Yes,High,Yes,Low,Positive,Poor,Moderate,Low,Auditory,3.819860316319437,Low
+78,23,Male,48,65,63,73,High School,No,Yes,Medium,No,High,Neutral,Poor,Weak,Low,Kinesthetic,3.434523751731513,Average
+79,19,Female,29,41,56,68,High School,Yes,Yes,High,Yes,Low,Positive,Good,Weak,Medium,Visual,3.164140262248447,High
+80,27,Female,21,92,66,85,Master,No,Yes,High,Yes,Medium,Negative,Average,Weak,Low,Auditory,3.5956093626821453,Low
+81,29,Male,17,48,93,88,PhD,Yes,No,Low,No,Low,Negative,Good,Weak,Medium,Kinesthetic,3.7287325329119465,Low
+82,19,Female,24,48,69,59,Master,No,Yes,Low,Yes,Medium,Positive,Average,Weak,Low,Auditory,2.913776143474534,High
+83,27,Female,29,79,85,74,Bachelor,Yes,No,High,Yes,Medium,Positive,Poor,Moderate,High,Auditory,2.950216729863671,Average
+84,21,Female,8,56,58,67,Master,No,No,Low,Yes,Medium,Positive,Good,Moderate,Low,Auditory,2.7721018713036716,High
+85,25,Female,14,40,87,68,Master,Yes,Yes,Low,Yes,Medium,Neutral,Poor,Weak,High,Kinesthetic,3.9334122800369213,Low
+86,24,Female,7,64,97,85,Master,No,No,Low,Yes,Medium,Negative,Average,Moderate,High,Auditory,3.3943325085807006,Low
+87,29,Male,45,82,71,59,Master,Yes,Yes,High,No,Low,Positive,Average,Strong,Medium,Kinesthetic,2.1664461324161444,Low
+88,26,Male,49,79,51,82,PhD,Yes,No,Low,No,Medium,Neutral,Average,Weak,Low,Visual,3.725919246626037,Low
+89,25,Male,22,81,73,99,PhD,Yes,No,High,No,Low,Negative,Poor,Strong,Medium,Kinesthetic,2.961119881672536,Average
+90,22,Female,40,64,57,54,High School,Yes,Yes,Low,No,Medium,Neutral,Average,Moderate,Low,Visual,2.1375078128449747,Average
+91,19,Female,26,78,60,96,Bachelor,Yes,Yes,Medium,Yes,High,Negative,Poor,Moderate,High,Kinesthetic,3.0994345103266223,Low
+92,22,Male,38,74,62,98,Master,Yes,Yes,Low,Yes,Medium,Neutral,Good,Strong,High,Auditory,2.8343285579514044,Average
+93,25,Female,12,42,66,84,High School,No,Yes,Low,Yes,High,Negative,Average,Moderate,Low,Kinesthetic,3.7554988097252497,Average
+94,27,Male,44,89,57,93,High School,Yes,Yes,High,Yes,Medium,Negative,Average,Weak,Low,Auditory,2.4079892072187747,Average
+95,26,Male,48,76,70,83,High School,No,No,High,Yes,Medium,Neutral,Average,Strong,Medium,Visual,3.652929218984366,Low
+96,29,Male,23,83,67,82,PhD,No,No,Low,No,Medium,Positive,Good,Weak,Low,Kinesthetic,3.1153773823709052,High
+97,29,Female,46,83,79,70,Master,No,No,Medium,No,High,Negative,Average,Strong,Low,Auditory,2.109220606426938,High
+98,29,Female,45,90,67,66,Master,No,No,Low,Yes,High,Positive,Poor,Moderate,Low,Visual,3.9436906026509693,High
+99,26,Male,41,69,95,71,Bachelor,No,No,Low,Yes,Medium,Neutral,Poor,Strong,Medium,Visual,3.0252304882064,Low
+100,18,Male,10,77,96,97,Master,Yes,No,Medium,Yes,Low,Positive,Average,Strong,Low,Kinesthetic,2.581753708463165,Average
+101,26,Male,30,73,80,86,Master,Yes,No,High,No,Medium,Positive,Average,Weak,High,Visual,2.938813683978516,Average
+102,24,Male,38,51,87,64,High School,Yes,Yes,Low,Yes,High,Positive,Good,Moderate,Medium,Auditory,3.715715567034978,Low
+103,26,Female,49,58,81,84,Bachelor,No,Yes,High,Yes,Medium,Positive,Good,Weak,Medium,Visual,2.609806248770127,Low
+104,25,Female,10,76,60,77,Master,Yes,No,High,Yes,High,Positive,Good,Moderate,High,Visual,2.385352792973401,High
+105,18,Male,41,83,94,56,PhD,Yes,No,Medium,No,High,Negative,Average,Weak,High,Auditory,2.258142493861763,High
+106,29,Male,37,98,74,81,Master,Yes,Yes,Medium,Yes,High,Negative,Good,Strong,High,Visual,2.5957187967804227,Low
+107,25,Female,26,98,82,60,High School,Yes,Yes,High,No,Medium,Negative,Good,Weak,Low,Visual,3.560096174080087,High
+108,25,Female,25,88,87,59,PhD,Yes,Yes,Low,No,High,Neutral,Poor,Moderate,High,Visual,2.9432527303905234,Average
+109,28,Male,10,56,90,58,High School,No,Yes,High,No,High,Positive,Good,Moderate,Low,Visual,2.45496320738708,Low
+110,20,Male,10,49,57,63,Master,Yes,No,Low,No,Medium,Negative,Poor,Strong,Medium,Auditory,2.332369999219498,Low
+111,18,Male,8,96,60,62,PhD,No,Yes,Low,No,High,Neutral,Poor,Moderate,Medium,Visual,2.6654589530207584,Average
+112,25,Female,34,94,71,74,Bachelor,No,No,Medium,No,Medium,Negative,Good,Weak,High,Auditory,3.879848745771418,Average
+113,20,Female,15,88,73,51,Bachelor,No,No,Low,Yes,High,Negative,Poor,Strong,Low,Visual,2.6860534251800487,Average
+114,20,Female,34,86,90,84,PhD,No,No,Low,Yes,Low,Positive,Average,Moderate,High,Visual,3.976248151909271,High
+115,18,Male,35,51,66,56,PhD,No,Yes,High,Yes,Low,Neutral,Average,Moderate,High,Visual,2.9704609115307123,Low
+116,28,Male,28,55,61,70,High School,Yes,Yes,Medium,No,High,Positive,Good,Weak,Low,Visual,2.358327836580302,High
+117,22,Female,13,63,95,67,PhD,Yes,No,Low,Yes,Low,Positive,Average,Weak,High,Auditory,3.7822801835870186,Average
+118,27,Female,7,58,81,52,High School,Yes,No,Low,No,Medium,Negative,Poor,Strong,Medium,Auditory,2.9207107462696538,High
+119,24,Male,35,47,64,91,Master,No,No,Medium,No,Low,Positive,Average,Moderate,High,Auditory,3.419342687009049,Average
+120,27,Female,44,70,65,88,High School,Yes,Yes,High,No,High,Neutral,Good,Weak,Low,Kinesthetic,3.9674231664183033,High
+121,26,Female,41,60,71,90,PhD,Yes,No,Medium,Yes,High,Positive,Good,Strong,Low,Visual,2.100350700639948,High
+122,29,Male,40,56,77,98,PhD,No,Yes,Medium,No,Medium,Positive,Poor,Moderate,Medium,Visual,2.1933891195751345,Average
+123,24,Female,28,62,69,60,Master,No,No,Low,No,High,Positive,Good,Moderate,Low,Auditory,3.440913482925512,High
+124,26,Male,35,76,82,88,PhD,No,No,Low,Yes,Medium,Negative,Average,Strong,Low,Kinesthetic,2.5636500065909438,Low
+125,25,Male,10,93,59,73,PhD,No,No,High,Yes,Low,Neutral,Good,Strong,Medium,Visual,2.368602793900198,High
+126,29,Male,6,55,89,95,Bachelor,Yes,Yes,Low,No,Low,Negative,Poor,Weak,High,Auditory,2.078723759639459,High
+127,19,Male,24,45,81,68,Bachelor,No,Yes,Low,No,Medium,Negative,Good,Moderate,Medium,Visual,2.0436934239724036,Low
+128,18,Male,32,47,99,53,Master,No,No,Medium,Yes,Medium,Negative,Average,Moderate,High,Visual,3.5489712062395817,Average
+129,24,Male,15,64,82,75,High School,Yes,Yes,Low,Yes,High,Negative,Poor,Moderate,Medium,Auditory,2.2688668547391,Low
+130,24,Male,8,57,51,87,Bachelor,Yes,No,High,Yes,Low,Negative,Average,Strong,High,Auditory,2.9354412319423018,High
+131,25,Female,19,64,82,91,High School,No,Yes,Medium,No,Medium,Neutral,Poor,Weak,Medium,Visual,3.211793630358966,Average
+132,22,Male,10,51,82,81,PhD,Yes,Yes,High,Yes,Low,Positive,Good,Moderate,High,Visual,2.8567036011376925,High
+133,20,Male,34,54,90,88,Bachelor,No,Yes,Medium,Yes,Medium,Negative,Poor,Strong,Medium,Auditory,2.054213304672466,High
+134,29,Female,42,98,62,94,Master,No,No,Low,Yes,Low,Negative,Poor,Moderate,High,Visual,3.5670030051758177,Low
+135,25,Female,6,65,79,95,Master,Yes,Yes,Medium,No,High,Neutral,Good,Weak,Medium,Visual,2.021026449083307,Low
+136,23,Female,19,80,82,85,Master,Yes,Yes,Medium,Yes,Low,Neutral,Average,Moderate,Low,Auditory,3.5237797887549682,Average
+137,28,Male,15,84,62,89,Bachelor,No,No,Low,Yes,Low,Positive,Good,Weak,High,Visual,3.7866089875762454,Average
+138,20,Female,12,65,75,86,High School,No,No,Low,Yes,Low,Neutral,Poor,Weak,Medium,Visual,2.8656798421143446,Average
+139,18,Male,30,86,71,82,PhD,No,No,High,Yes,Low,Positive,Good,Moderate,High,Kinesthetic,3.0710849461955965,High
+140,20,Male,49,71,88,85,High School,Yes,No,High,Yes,Low,Negative,Poor,Moderate,High,Auditory,2.9539667852353073,Low
+141,22,Male,48,49,51,52,High School,No,Yes,Low,No,High,Negative,Good,Weak,Medium,Kinesthetic,2.7784172372468774,Low
+142,20,Male,9,55,87,58,PhD,No,Yes,Low,No,Medium,Positive,Good,Strong,High,Kinesthetic,3.7748490707407205,Low
+143,18,Female,10,46,88,57,PhD,No,Yes,Low,No,Low,Neutral,Average,Weak,Medium,Kinesthetic,3.7878670213399808,Average
+144,22,Female,30,56,75,82,Bachelor,No,Yes,Medium,Yes,High,Positive,Poor,Moderate,Low,Visual,2.6716327292830693,Low
+145,27,Male,8,62,95,55,Bachelor,No,Yes,Medium,No,Low,Neutral,Average,Moderate,High,Visual,3.2301395080293958,Low
+146,24,Male,23,65,99,90,Bachelor,Yes,No,Medium,No,Low,Negative,Poor,Strong,Low,Kinesthetic,3.853815124291728,Low
+147,24,Male,24,60,64,88,Bachelor,No,Yes,Low,No,Medium,Neutral,Good,Weak,High,Kinesthetic,3.9241169978827033,Average
+148,28,Female,37,61,83,53,Bachelor,No,Yes,High,Yes,Low,Positive,Poor,Weak,High,Kinesthetic,3.017918080844095,Low
+149,26,Male,24,97,91,62,PhD,No,Yes,Low,Yes,High,Positive,Average,Weak,High,Visual,2.905649610568654,Average
+150,27,Male,16,46,93,98,High School,No,No,Medium,No,High,Negative,Average,Moderate,Medium,Kinesthetic,2.5573886318570516,Low
+151,27,Female,5,53,98,51,Bachelor,Yes,No,Medium,No,Medium,Neutral,Average,Weak,Low,Kinesthetic,3.91774374638082,Low
+152,29,Female,30,54,89,54,Bachelor,Yes,Yes,Low,Yes,Low,Neutral,Poor,Strong,High,Auditory,2.2856286089457347,Low
+153,20,Male,18,92,60,93,High School,Yes,No,Low,Yes,High,Neutral,Average,Moderate,Medium,Auditory,3.15965915209545,Average
+154,24,Female,42,46,52,76,Bachelor,No,No,Medium,No,Low,Negative,Average,Moderate,High,Visual,2.5651005350372778,Average
+155,18,Female,41,48,55,81,High School,No,No,Medium,Yes,Low,Neutral,Average,Weak,Medium,Auditory,2.5580165806955932,Low
+156,21,Male,15,90,58,70,High School,Yes,No,Medium,No,Low,Positive,Good,Strong,High,Auditory,2.8099371747523767,High
+157,21,Female,40,87,55,57,PhD,Yes,No,Low,Yes,Medium,Neutral,Good,Moderate,Low,Auditory,3.9975858716313093,Average
+158,22,Male,17,47,58,87,Master,Yes,No,Medium,No,Low,Negative,Poor,Moderate,Low,Visual,2.109932613679644,Average
+159,24,Female,47,89,88,57,PhD,No,No,Medium,No,High,Neutral,Poor,Weak,High,Auditory,3.157083636407063,Low
+160,24,Male,7,98,80,99,Master,No,Yes,High,Yes,Low,Neutral,Average,Weak,Medium,Visual,2.1651443160705544,High
+161,28,Male,37,62,81,52,Master,Yes,Yes,Low,No,High,Positive,Good,Strong,High,Kinesthetic,2.309041659981038,Low
+162,21,Male,10,68,90,93,Master,Yes,No,High,No,Low,Neutral,Average,Weak,Medium,Auditory,2.8791258835457976,Average
+163,24,Female,14,57,99,52,Bachelor,Yes,Yes,High,No,High,Positive,Average,Strong,High,Visual,3.020920262692883,Average
+164,28,Male,9,70,61,71,PhD,No,Yes,Medium,Yes,High,Positive,Good,Moderate,Medium,Auditory,2.517584816729048,Low
+165,20,Female,27,69,57,55,Master,No,No,Low,Yes,Low,Negative,Good,Strong,Low,Kinesthetic,2.6329142617488324,Low
+166,23,Male,14,91,57,51,High School,No,Yes,Medium,Yes,Low,Positive,Good,Strong,High,Visual,2.173934040511866,High
+167,29,Male,48,78,99,72,Bachelor,Yes,No,Low,No,High,Positive,Poor,Strong,Low,Visual,2.606439567688501,High
+168,19,Female,6,74,77,93,PhD,Yes,No,High,Yes,Medium,Negative,Poor,Moderate,Low,Visual,3.933116878761088,Average
+169,27,Male,17,57,69,51,Master,No,No,Low,No,Low,Positive,Average,Weak,High,Kinesthetic,3.8894147633449636,High
+170,26,Male,44,98,96,87,High School,Yes,Yes,Medium,No,Medium,Negative,Poor,Moderate,High,Kinesthetic,2.66975658027397,High
+171,22,Female,6,81,56,66,PhD,No,Yes,Medium,Yes,Low,Neutral,Good,Weak,Medium,Kinesthetic,3.1417078725575234,Average
+172,23,Male,24,78,60,84,PhD,Yes,Yes,Medium,Yes,Low,Negative,Good,Strong,Medium,Visual,3.819190782221889,Average
+173,29,Male,5,56,69,83,Bachelor,Yes,Yes,Low,No,Low,Positive,Poor,Strong,Low,Kinesthetic,2.0123676452817936,Average
+174,29,Male,41,53,65,72,PhD,Yes,No,High,No,Low,Negative,Average,Strong,Medium,Auditory,3.6213671406751837,Average
+175,29,Male,13,70,53,79,Bachelor,Yes,No,High,Yes,Medium,Positive,Average,Strong,Medium,Kinesthetic,3.896739105577838,Low
+176,29,Female,21,63,55,57,Master,No,Yes,Low,Yes,Low,Neutral,Poor,Strong,High,Visual,2.182651468667114,Average
+177,21,Female,13,74,71,71,Bachelor,Yes,No,Medium,Yes,High,Negative,Average,Weak,Medium,Auditory,2.322895372065842,Average
+178,28,Male,15,83,75,93,High School,No,No,High,No,High,Neutral,Average,Weak,Low,Kinesthetic,3.921492605542711,Average
+179,27,Female,19,99,52,85,Bachelor,No,Yes,Medium,No,Medium,Positive,Average,Strong,Medium,Auditory,3.0750802872806924,High
+180,24,Male,28,84,90,54,High School,No,No,Low,No,Low,Positive,Good,Moderate,Low,Auditory,2.0283932689434474,Average
+181,29,Female,42,73,91,62,Bachelor,Yes,Yes,Medium,No,High,Neutral,Good,Moderate,High,Visual,2.5152639975270583,Low
+182,26,Male,39,42,63,78,PhD,No,No,High,No,Medium,Negative,Poor,Strong,Low,Auditory,2.8998873485377192,Low
+183,24,Male,34,76,60,80,Master,No,Yes,High,Yes,Low,Negative,Good,Weak,Medium,Auditory,3.3858178220495354,Average
+184,18,Male,35,82,67,96,High School,No,No,Medium,Yes,High,Positive,Average,Moderate,High,Visual,3.466320756273599,Low
+185,18,Male,9,79,61,65,Bachelor,Yes,No,Low,No,High,Neutral,Good,Moderate,Medium,Visual,3.9908430258509124,High
+186,26,Male,48,65,72,91,Bachelor,Yes,Yes,Medium,No,Medium,Neutral,Poor,Moderate,High,Visual,2.5750223987675183,Average
+187,28,Male,18,94,61,79,Bachelor,No,Yes,Low,Yes,Low,Negative,Good,Strong,High,Auditory,3.0764402037369507,Low
+188,26,Female,15,62,62,65,PhD,Yes,Yes,Medium,Yes,Low,Negative,Average,Moderate,Medium,Auditory,3.06664709571921,Low
+189,21,Male,13,83,74,61,PhD,No,Yes,High,Yes,High,Negative,Average,Moderate,Medium,Auditory,2.811290518894475,Average
+190,26,Female,38,78,94,66,High School,No,No,Low,Yes,High,Neutral,Poor,Moderate,High,Visual,2.3383237876848404,Low
+191,20,Male,16,54,68,65,High School,Yes,No,Low,No,High,Negative,Good,Moderate,High,Kinesthetic,3.954913126367685,Average
+192,24,Female,39,95,95,61,PhD,No,Yes,Low,Yes,Low,Negative,Good,Weak,Medium,Auditory,3.706634373333172,Low
+193,23,Female,39,88,85,57,High School,Yes,No,High,No,Medium,Positive,Good,Strong,Low,Kinesthetic,2.9966660565884746,High
+194,25,Female,5,43,94,69,Master,Yes,Yes,Medium,Yes,Medium,Negative,Average,Strong,Medium,Visual,3.2064908453680596,Low
+195,28,Male,44,68,57,52,Master,No,Yes,High,Yes,Low,Negative,Poor,Weak,High,Auditory,2.454522107119325,Low
+196,26,Male,26,61,78,65,PhD,Yes,No,Low,Yes,Medium,Neutral,Good,Weak,Medium,Kinesthetic,3.087574140783494,Average
+197,22,Female,33,64,81,79,High School,Yes,No,Medium,No,High,Neutral,Average,Strong,Low,Auditory,3.3899402662429514,Low
+198,18,Male,12,52,93,94,Bachelor,No,Yes,High,No,Medium,Positive,Average,Moderate,Medium,Auditory,3.0303340567731776,Average
+199,20,Female,15,57,67,72,Master,No,Yes,Low,Yes,Medium,Negative,Average,Moderate,High,Auditory,3.9805703411698827,High
+200,27,Male,45,72,55,77,PhD,Yes,Yes,Low,No,Medium,Positive,Good,Strong,Medium,Kinesthetic,3.2226833124954526,Average
+201,29,Female,41,55,67,89,High School,Yes,No,High,No,High,Neutral,Good,Moderate,High,Visual,2.741947425184338,Average
+202,25,Female,18,84,68,54,PhD,No,No,High,Yes,Low,Positive,Good,Weak,High,Auditory,3.5443040552316765,Low
+203,28,Male,34,81,71,69,Bachelor,Yes,No,High,Yes,High,Neutral,Good,Moderate,Medium,Visual,2.340925023163284,High
+204,23,Female,39,83,86,89,Master,Yes,No,Low,No,Low,Positive,Good,Moderate,High,Visual,2.769031627412533,Average
+205,25,Male,25,41,81,93,PhD,Yes,Yes,High,No,Low,Positive,Good,Moderate,High,Kinesthetic,2.6939179007551717,Low
+206,26,Female,41,94,90,50,PhD,Yes,Yes,Low,No,Low,Negative,Good,Strong,Low,Kinesthetic,2.8636141902155545,Low
+207,21,Female,9,74,52,79,PhD,Yes,Yes,High,Yes,Medium,Positive,Good,Weak,Low,Visual,3.5635596518574526,Average
+208,18,Male,23,81,77,70,Bachelor,Yes,Yes,Low,Yes,Medium,Negative,Good,Moderate,Low,Auditory,2.968346064326815,Low
+209,18,Male,18,73,59,69,PhD,Yes,Yes,Low,No,Low,Negative,Average,Strong,Low,Kinesthetic,3.5880289005319255,Average
+210,27,Male,30,69,84,55,Bachelor,No,Yes,Medium,Yes,Low,Negative,Good,Moderate,High,Auditory,3.152977806279732,Average
+211,21,Female,8,98,78,71,Bachelor,No,No,High,Yes,Medium,Negative,Poor,Weak,Medium,Auditory,2.6841388693151105,Average
+212,29,Male,29,94,64,67,Bachelor,No,No,High,No,High,Positive,Average,Moderate,High,Auditory,3.619957487366945,High
+213,24,Female,49,52,82,57,Master,No,Yes,Low,No,Low,Neutral,Good,Weak,High,Visual,2.4765793411061834,Average
+214,19,Female,46,52,56,88,Master,No,Yes,Low,Yes,High,Neutral,Poor,Moderate,High,Auditory,2.4487659595995908,Low
+215,20,Male,29,57,61,81,PhD,Yes,No,Low,Yes,Medium,Neutral,Good,Weak,Medium,Visual,3.0090058481096715,High
+216,18,Male,22,71,98,82,PhD,Yes,No,Medium,No,Low,Positive,Poor,Moderate,Low,Visual,2.5216984919241776,Low
+217,22,Female,44,71,79,65,Master,Yes,No,Medium,Yes,High,Negative,Poor,Weak,High,Auditory,2.0181740699024324,High
+218,18,Female,12,74,70,61,High School,Yes,No,Low,Yes,High,Neutral,Poor,Moderate,High,Auditory,3.296595054597603,High
+219,25,Male,43,98,80,87,Master,No,Yes,High,No,High,Positive,Poor,Moderate,Low,Auditory,3.022187642944796,High
+220,18,Male,44,78,73,83,Bachelor,Yes,Yes,High,No,Medium,Negative,Average,Strong,High,Auditory,2.891035628986322,High
+221,28,Male,18,85,69,63,Master,Yes,Yes,Medium,Yes,Medium,Neutral,Average,Strong,Medium,Visual,3.9339370292366307,Low
+222,18,Male,36,91,86,85,Bachelor,No,Yes,Medium,Yes,High,Negative,Poor,Weak,High,Auditory,3.1423983679258276,Average
+223,19,Male,42,68,53,82,PhD,Yes,Yes,Low,Yes,High,Neutral,Good,Moderate,High,Auditory,3.7268631555787692,Low
+224,19,Female,37,88,77,72,High School,Yes,No,High,No,Medium,Neutral,Poor,Weak,Low,Visual,2.2789004724103203,Average
+225,29,Female,27,68,93,99,PhD,No,Yes,Low,Yes,High,Neutral,Average,Strong,High,Kinesthetic,3.138412926258855,Low
+226,23,Female,19,92,69,94,Bachelor,Yes,No,Medium,Yes,High,Negative,Good,Weak,High,Kinesthetic,3.7359592534618056,High
+227,24,Female,37,83,73,51,Bachelor,Yes,Yes,High,No,Medium,Positive,Average,Weak,Medium,Visual,3.166211514559796,High
+228,22,Male,29,96,99,90,Bachelor,Yes,Yes,High,No,High,Negative,Average,Strong,Low,Kinesthetic,3.436028356254003,Average
+229,18,Male,21,55,98,70,High School,Yes,Yes,Medium,Yes,High,Neutral,Good,Moderate,Low,Visual,2.7440871356244148,Average
+230,18,Male,37,95,81,51,Master,Yes,Yes,Low,No,High,Negative,Poor,Weak,Medium,Auditory,2.1848990340741334,Low
+231,20,Female,6,83,90,76,PhD,No,Yes,Low,No,Medium,Positive,Poor,Strong,High,Auditory,2.915800590254143,Average
+232,19,Female,18,86,85,58,PhD,No,No,High,Yes,High,Negative,Poor,Moderate,Low,Kinesthetic,2.788958781677715,Low
+233,22,Male,44,96,83,50,Master,No,No,Medium,No,Medium,Positive,Poor,Strong,Low,Auditory,3.734120364757895,Average
+234,29,Male,44,49,85,60,PhD,No,No,High,No,Medium,Positive,Good,Weak,High,Kinesthetic,2.4879906047049447,Average
+235,27,Female,43,69,51,52,High School,No,Yes,Medium,Yes,Low,Negative,Good,Moderate,High,Kinesthetic,3.933468455070216,Average
+236,23,Female,10,64,64,72,PhD,No,Yes,Low,No,Low,Neutral,Good,Moderate,Low,Auditory,3.916276239608992,High
+237,24,Male,10,78,83,75,Bachelor,Yes,No,Medium,Yes,High,Positive,Average,Strong,High,Auditory,2.4952632861428774,High
+238,21,Male,7,59,85,53,Master,No,Yes,Low,Yes,Medium,Negative,Good,Strong,Low,Kinesthetic,2.696103910954641,Low
+239,24,Female,11,44,55,67,High School,No,Yes,Medium,No,Low,Positive,Poor,Strong,High,Auditory,3.79111148174777,Average
+240,28,Male,12,40,88,55,Master,Yes,No,High,No,High,Neutral,Average,Moderate,High,Visual,3.933244441792215,Low
+241,25,Male,46,69,91,84,High School,Yes,Yes,Low,No,Low,Negative,Poor,Moderate,Medium,Auditory,2.886878205672088,Average
+242,28,Male,19,88,61,71,Bachelor,No,No,High,Yes,Low,Negative,Poor,Weak,High,Auditory,2.641994091281796,High
+243,18,Female,33,42,52,92,Master,Yes,Yes,High,No,Medium,Negative,Good,Moderate,Medium,Visual,3.0521880265030843,High
+244,23,Female,37,84,94,64,PhD,No,No,Low,Yes,Medium,Neutral,Good,Weak,High,Auditory,3.3755384127314696,Average
+245,25,Female,34,53,67,71,High School,Yes,Yes,Low,No,Low,Positive,Poor,Strong,Low,Auditory,2.5469490307499596,Average
+246,22,Female,43,95,89,86,Master,No,Yes,High,No,Low,Negative,Poor,Strong,Low,Kinesthetic,3.4729463492381454,High
+247,21,Female,31,69,70,91,PhD,Yes,No,High,No,Medium,Positive,Average,Moderate,High,Auditory,2.103314714229282,High
+248,19,Female,40,89,64,61,Master,Yes,Yes,High,Yes,High,Positive,Good,Strong,High,Auditory,2.098588985528833,Low
+249,23,Female,33,43,82,96,Master,No,Yes,High,No,Medium,Neutral,Average,Strong,Low,Visual,2.7725754102910907,High
+250,23,Male,42,57,84,98,Master,No,No,Low,No,Low,Negative,Average,Moderate,High,Kinesthetic,2.706946384121441,Average
+251,28,Male,37,76,75,91,High School,No,Yes,Low,Yes,High,Positive,Average,Weak,Medium,Kinesthetic,2.6312664307343043,Low
+252,18,Male,41,64,57,87,PhD,No,No,High,Yes,Low,Negative,Poor,Moderate,Medium,Kinesthetic,2.98203952533782,Average
+253,26,Male,31,87,85,67,Bachelor,No,Yes,Medium,No,High,Negative,Average,Weak,Medium,Auditory,2.6414671646231422,Low
+254,29,Male,37,40,97,94,High School,Yes,Yes,Medium,No,Low,Neutral,Average,Moderate,Medium,Kinesthetic,2.384515836936184,Average
+255,28,Male,8,92,79,84,High School,No,Yes,Low,No,High,Negative,Poor,Moderate,Medium,Visual,2.6189390981772016,High
+256,23,Male,26,85,72,79,High School,No,Yes,High,Yes,High,Negative,Good,Strong,High,Kinesthetic,3.9498085456204697,Average
+257,20,Female,6,54,91,73,Bachelor,Yes,No,High,Yes,Low,Positive,Good,Moderate,High,Visual,2.8222268339896974,Low
+258,21,Female,14,48,93,91,PhD,Yes,Yes,Low,Yes,High,Neutral,Average,Moderate,Medium,Kinesthetic,2.8894255537166718,Average
+259,29,Male,9,54,63,79,PhD,No,No,Medium,Yes,Medium,Negative,Poor,Weak,High,Kinesthetic,3.15308997990228,Low
+260,28,Male,14,88,63,63,PhD,Yes,Yes,Medium,No,Low,Positive,Good,Strong,High,Visual,3.966681536828453,Average
+261,21,Female,37,96,51,55,Master,Yes,Yes,Medium,Yes,Medium,Neutral,Average,Weak,Medium,Kinesthetic,2.483202552871526,High
+262,20,Male,42,63,86,52,Master,No,Yes,Low,Yes,Low,Neutral,Average,Weak,High,Kinesthetic,3.3625642210648676,High
+263,27,Male,17,43,54,65,Master,Yes,Yes,Medium,Yes,High,Positive,Poor,Strong,High,Kinesthetic,3.4319693870834485,Average
+264,20,Female,35,51,87,56,Bachelor,Yes,No,Low,No,High,Positive,Average,Strong,High,Auditory,3.214648833586132,Average
+265,20,Male,40,98,94,63,Master,No,No,Low,No,High,Positive,Good,Strong,Medium,Visual,2.1771566792732884,Average
+266,21,Female,49,97,90,58,Bachelor,No,No,High,Yes,Low,Positive,Poor,Moderate,High,Kinesthetic,3.353744551655153,Low
+267,24,Male,28,76,96,64,PhD,Yes,No,Medium,Yes,Medium,Positive,Good,Strong,Low,Visual,2.128189422072351,Average
+268,21,Female,19,76,63,70,Master,Yes,Yes,Low,No,Medium,Negative,Good,Strong,Low,Visual,3.192285299099794,Average
+269,26,Female,33,82,88,84,Master,No,No,Medium,No,Low,Negative,Good,Strong,Medium,Visual,3.4791623544434853,Low
+270,18,Female,12,99,74,51,High School,Yes,No,Medium,No,Low,Neutral,Average,Weak,Low,Kinesthetic,2.421939781239901,High
+271,25,Male,9,45,69,76,Bachelor,Yes,Yes,High,No,Medium,Negative,Average,Weak,Medium,Kinesthetic,3.683244015085548,Average
+272,24,Female,33,78,51,51,PhD,Yes,Yes,Medium,No,Medium,Negative,Good,Moderate,Low,Visual,2.0607076110660083,Average
+273,19,Male,8,95,88,84,High School,No,Yes,High,No,Medium,Negative,Good,Weak,Low,Auditory,3.687625727316612,High
+274,25,Male,16,85,55,67,High School,Yes,Yes,Low,No,Medium,Positive,Poor,Moderate,Low,Visual,2.92065810128553,High
+275,18,Male,49,63,66,63,PhD,Yes,No,Medium,No,Low,Neutral,Poor,Weak,Medium,Auditory,2.435175879863289,Low
+276,28,Male,6,50,74,69,High School,No,No,Low,Yes,Low,Neutral,Average,Strong,Medium,Visual,2.267556289987936,Average
+277,29,Female,31,52,77,67,Bachelor,Yes,Yes,Medium,Yes,High,Neutral,Average,Weak,High,Visual,3.906614335164745,Average
+278,26,Female,35,73,51,59,Bachelor,Yes,Yes,Low,Yes,Medium,Neutral,Poor,Moderate,Medium,Visual,2.1453311751623136,Low
+279,26,Male,40,64,84,74,Master,No,Yes,Medium,Yes,High,Negative,Good,Weak,Low,Kinesthetic,2.398186839871851,High
+280,19,Male,40,46,86,51,High School,No,No,Medium,Yes,Low,Negative,Average,Strong,Low,Auditory,2.695644694866092,Low
+281,24,Female,30,91,54,74,Master,No,No,Medium,Yes,Low,Positive,Good,Moderate,Medium,Auditory,3.240469697922241,High
+282,27,Male,47,43,50,82,High School,No,Yes,Medium,No,High,Neutral,Poor,Strong,Medium,Visual,3.0896021705521965,Low
+283,20,Female,31,98,89,85,Bachelor,Yes,Yes,Medium,No,Medium,Negative,Average,Strong,Medium,Kinesthetic,2.251286984824628,High
+284,24,Male,9,47,61,80,Bachelor,Yes,No,Medium,Yes,Medium,Negative,Average,Moderate,High,Kinesthetic,2.579455967476429,Low
+285,29,Male,24,59,85,63,Bachelor,No,Yes,Medium,Yes,Medium,Positive,Poor,Strong,Low,Auditory,2.477503542172048,High
+286,27,Female,15,68,94,50,High School,No,Yes,Medium,No,Medium,Positive,Average,Strong,High,Kinesthetic,2.427085708980683,High
+287,26,Male,14,93,72,95,Bachelor,Yes,No,Medium,No,High,Positive,Poor,Weak,High,Auditory,2.8222886729599743,High
+288,21,Female,44,92,96,65,High School,No,Yes,Low,No,High,Negative,Average,Strong,Low,Auditory,3.408062905183314,High
+289,29,Male,42,90,80,95,Master,Yes,No,High,Yes,Low,Negative,Poor,Strong,Low,Auditory,2.434905864434472,High
+290,18,Male,10,84,60,52,High School,No,Yes,Medium,No,Medium,Positive,Average,Strong,Medium,Kinesthetic,2.733357759405963,Average
+291,19,Male,12,85,59,84,Master,Yes,Yes,High,Yes,Medium,Neutral,Good,Strong,Medium,Auditory,2.7818348536823247,High
+292,18,Female,27,49,52,90,High School,No,No,Medium,Yes,Medium,Positive,Good,Moderate,High,Auditory,3.9529130588708203,Average
+293,29,Male,30,82,63,55,Master,No,No,Medium,No,High,Positive,Good,Weak,Medium,Visual,3.909332713758138,High
+294,22,Male,47,73,65,74,Bachelor,Yes,Yes,Low,No,Medium,Positive,Average,Strong,Medium,Auditory,3.6002751655041516,Average
+295,22,Male,16,96,59,62,Master,No,No,Low,Yes,High,Positive,Average,Strong,Low,Auditory,2.48331784163837,Average
+296,28,Male,30,65,78,83,Bachelor,Yes,Yes,High,No,Medium,Negative,Good,Moderate,Low,Visual,2.1360746281833394,Low
+297,24,Female,17,80,59,57,Bachelor,Yes,Yes,Low,No,Medium,Neutral,Good,Strong,Medium,Visual,2.6338082754412495,High
+298,26,Female,44,88,61,70,Master,Yes,No,Low,Yes,Low,Positive,Poor,Moderate,Low,Kinesthetic,2.5335890988676617,Low
+299,26,Male,22,97,79,83,High School,Yes,Yes,High,No,Medium,Neutral,Poor,Weak,Medium,Auditory,3.011851600292788,Low
+300,20,Female,29,42,90,53,High School,Yes,Yes,Low,Yes,Medium,Neutral,Poor,Weak,Low,Kinesthetic,3.5554558201355864,High
+301,20,Male,37,95,50,74,PhD,No,No,Medium,Yes,Low,Neutral,Good,Strong,Low,Kinesthetic,3.716645877757716,Low
+302,20,Male,44,45,54,64,High School,No,No,High,No,High,Positive,Good,Strong,Low,Visual,3.689728170821017,High
+303,21,Male,47,44,69,53,PhD,Yes,Yes,High,Yes,High,Negative,Good,Strong,Low,Kinesthetic,2.7193511224461355,Low
+304,25,Female,16,44,57,94,High School,No,No,Medium,Yes,Medium,Positive,Poor,Moderate,Medium,Auditory,3.374468686921366,High
+305,23,Female,48,93,92,61,High School,Yes,No,Low,No,High,Neutral,Average,Strong,High,Visual,2.6256683950484403,High
+306,25,Female,40,86,61,81,Bachelor,No,No,High,No,Medium,Neutral,Good,Strong,Low,Auditory,2.121811086470365,High
+307,18,Female,8,62,50,81,PhD,No,No,High,No,Low,Negative,Average,Weak,Medium,Auditory,3.4031305312058846,Average
+308,25,Female,9,88,69,77,High School,No,Yes,Medium,Yes,Low,Positive,Average,Strong,Medium,Visual,2.0196551051395755,Low
+309,21,Female,41,48,77,62,PhD,No,Yes,Medium,Yes,Medium,Neutral,Average,Weak,Low,Auditory,2.818365174916977,Average
+310,28,Female,12,74,92,80,Bachelor,Yes,Yes,Low,No,Low,Negative,Poor,Strong,High,Visual,2.6587585386041512,Low
+311,18,Female,46,59,86,63,Bachelor,Yes,No,High,Yes,Low,Neutral,Average,Weak,Low,Auditory,3.386755077037705,Low
+312,25,Female,32,97,96,69,PhD,No,No,Low,No,Medium,Negative,Good,Strong,Medium,Visual,3.532490945520758,Low
+313,21,Male,35,88,86,67,Bachelor,No,No,Low,No,Medium,Negative,Poor,Weak,High,Kinesthetic,2.6081892719425674,Average
+314,23,Female,13,98,61,78,Master,Yes,No,Medium,Yes,Low,Positive,Good,Moderate,Medium,Auditory,3.623254028889707,Low
+315,25,Female,33,81,86,55,Master,No,No,High,No,High,Neutral,Good,Weak,Low,Visual,2.5878335210098675,Average
+316,21,Female,18,74,98,81,Bachelor,Yes,No,High,Yes,High,Positive,Poor,Weak,High,Auditory,2.8926527199731225,High
+317,20,Female,44,89,98,78,Master,Yes,No,High,Yes,Medium,Neutral,Good,Weak,Medium,Auditory,3.4540370540282677,Low
+318,26,Female,45,57,93,92,High School,Yes,Yes,Medium,No,Medium,Positive,Good,Strong,Medium,Auditory,3.385840458449577,Low
+319,20,Female,26,56,77,51,PhD,No,Yes,Medium,Yes,High,Neutral,Poor,Strong,Medium,Visual,3.9747369446244,High
+320,26,Female,15,63,96,72,High School,Yes,No,Medium,No,Low,Positive,Good,Strong,Low,Kinesthetic,2.4503220484318637,High
+321,19,Female,27,42,64,68,PhD,No,No,Medium,Yes,High,Negative,Average,Moderate,High,Kinesthetic,3.324635827079165,Low
+322,19,Female,5,71,55,80,Bachelor,Yes,No,Medium,Yes,High,Neutral,Good,Moderate,Low,Kinesthetic,3.219363816551555,High
+323,19,Female,41,74,93,54,High School,No,Yes,High,Yes,High,Neutral,Average,Weak,Low,Visual,3.83019690898006,Average
+324,23,Female,25,77,69,68,Bachelor,No,Yes,Low,No,High,Negative,Good,Moderate,Low,Kinesthetic,2.31272428328975,Average
+325,20,Male,30,52,99,83,Bachelor,No,No,High,Yes,Medium,Positive,Poor,Weak,High,Visual,3.5035963271738657,Low
+326,26,Male,40,95,63,59,PhD,Yes,No,Low,No,Medium,Neutral,Poor,Weak,Low,Auditory,3.1365372325375365,Average
+327,21,Female,27,86,51,74,PhD,Yes,Yes,Medium,Yes,Low,Neutral,Good,Weak,Low,Auditory,2.549331739575811,Average
+328,18,Female,5,64,58,51,PhD,No,Yes,Low,Yes,Low,Positive,Poor,Moderate,Low,Kinesthetic,2.948869828294348,Low
+329,21,Male,44,48,86,60,High School,No,Yes,High,No,Low,Negative,Good,Strong,Low,Visual,2.667553194139596,High
+330,18,Female,19,43,69,99,Master,No,Yes,High,No,Low,Positive,Poor,Moderate,Medium,Auditory,3.1586268055769215,Low
+331,22,Male,25,53,75,80,PhD,Yes,No,Low,No,High,Positive,Average,Weak,Low,Visual,3.7780012216293315,Average
+332,21,Male,13,76,78,64,PhD,Yes,Yes,Medium,No,Medium,Positive,Good,Weak,Medium,Visual,3.138609968824404,Low
+333,25,Male,13,73,50,58,High School,Yes,Yes,Medium,No,Medium,Neutral,Average,Moderate,Low,Auditory,3.263444836653168,Low
+334,25,Male,14,50,84,72,PhD,Yes,No,High,Yes,Low,Negative,Average,Weak,High,Visual,3.0374956942294187,Average
+335,24,Male,30,80,55,68,High School,No,Yes,Low,Yes,Low,Negative,Good,Weak,Medium,Auditory,2.102331012890952,Average
+336,20,Female,45,95,86,58,Bachelor,No,Yes,Medium,No,High,Positive,Average,Moderate,Medium,Auditory,2.4657171137521887,Low
+337,18,Male,39,42,54,84,PhD,Yes,Yes,Medium,Yes,High,Neutral,Good,Moderate,Medium,Auditory,2.9840034588641657,Average
+338,18,Female,29,98,82,70,PhD,Yes,No,High,Yes,Low,Positive,Average,Moderate,Medium,Visual,2.6204705674894093,Average
+339,29,Female,30,67,98,58,Bachelor,No,Yes,Medium,Yes,Medium,Neutral,Good,Weak,High,Auditory,2.3635271955223884,Average
+340,28,Male,15,68,63,77,Bachelor,Yes,No,Low,No,Medium,Neutral,Good,Weak,Low,Visual,3.0082656838368766,Average
+341,20,Male,42,48,61,95,Bachelor,Yes,No,High,Yes,Medium,Neutral,Poor,Strong,Medium,Auditory,2.645619586895701,Average
+342,23,Female,6,42,91,56,PhD,Yes,Yes,High,Yes,Low,Neutral,Good,Strong,High,Auditory,2.5162152863468297,Average
+343,24,Male,11,64,69,65,Master,Yes,Yes,Low,Yes,Medium,Negative,Good,Moderate,Medium,Kinesthetic,2.9279708348807616,High
+344,23,Male,22,73,99,65,Master,Yes,Yes,High,No,High,Neutral,Average,Strong,Low,Kinesthetic,2.2665685161643463,Low
+345,23,Female,31,51,73,82,Master,Yes,Yes,Medium,Yes,High,Neutral,Good,Weak,Medium,Kinesthetic,3.8554914661508146,Average
+346,23,Female,38,81,92,53,PhD,No,No,Medium,Yes,Low,Positive,Poor,Strong,High,Visual,3.735404195838478,Low
+347,20,Male,31,48,83,53,Bachelor,Yes,Yes,Low,No,High,Positive,Average,Weak,Low,Visual,3.4152411714810706,High
+348,23,Female,21,54,74,88,PhD,Yes,Yes,Medium,No,Low,Negative,Average,Moderate,High,Auditory,2.2124276551769126,Average
+349,25,Male,47,79,99,89,Bachelor,No,Yes,Low,Yes,Medium,Positive,Poor,Moderate,Low,Auditory,3.551754508939386,Low
+350,28,Male,48,64,78,66,PhD,No,No,Low,Yes,Medium,Neutral,Average,Weak,Low,Auditory,3.615914656218038,Average
+351,28,Male,28,44,88,86,PhD,No,Yes,Medium,No,Medium,Positive,Average,Strong,Low,Auditory,3.535529235428675,Average
+352,19,Female,29,50,80,88,Bachelor,Yes,Yes,Low,No,High,Negative,Average,Moderate,Medium,Visual,2.227931774238482,Average
+353,22,Female,11,98,96,78,Master,No,No,Medium,No,Low,Positive,Average,Moderate,High,Auditory,3.287815914135529,Average
+354,18,Female,10,73,92,85,Bachelor,Yes,No,High,No,Medium,Positive,Poor,Strong,High,Auditory,3.668649591498797,Average
+355,29,Female,28,63,99,87,High School,Yes,Yes,High,No,Low,Negative,Poor,Strong,High,Kinesthetic,3.1547068024393354,Average
+356,18,Female,37,99,72,88,High School,Yes,Yes,Low,No,Medium,Negative,Average,Weak,Low,Auditory,3.292814750456178,Average
+357,22,Male,33,54,93,99,Bachelor,No,Yes,Medium,No,High,Neutral,Average,Strong,Medium,Auditory,2.916726958852612,High
+358,29,Male,47,77,87,86,PhD,No,Yes,Medium,Yes,High,Positive,Poor,Strong,Low,Auditory,3.0574146397681052,High
+359,20,Male,26,47,69,84,High School,No,Yes,High,No,Low,Neutral,Poor,Strong,High,Visual,2.0687537167034504,Average
+360,21,Male,30,98,72,56,High School,No,No,High,No,High,Positive,Poor,Weak,Medium,Kinesthetic,3.277926043946569,Average
+361,20,Female,32,44,94,76,PhD,No,No,Medium,Yes,High,Positive,Average,Weak,Medium,Auditory,2.1628944257823184,High
+362,18,Male,25,87,65,77,PhD,Yes,Yes,Low,No,Low,Neutral,Average,Moderate,Medium,Auditory,2.870029188680447,High
+363,18,Female,11,65,99,71,Master,Yes,Yes,High,No,Medium,Positive,Good,Weak,High,Kinesthetic,2.5853101953348157,High
+364,29,Male,21,57,91,63,PhD,Yes,No,Low,Yes,High,Positive,Poor,Moderate,Medium,Auditory,3.090855900423426,Average
+365,29,Female,24,45,57,56,Bachelor,Yes,Yes,Low,No,Low,Positive,Average,Strong,Medium,Visual,2.266832671046414,Low
+366,22,Female,45,76,99,86,Bachelor,No,Yes,High,Yes,High,Negative,Poor,Moderate,Low,Auditory,3.3832868039466364,Low
+367,23,Male,24,99,70,71,Master,No,Yes,Low,Yes,High,Neutral,Average,Moderate,Low,Visual,3.5900230738569405,Low
+368,20,Male,26,87,50,54,High School,Yes,Yes,Low,Yes,High,Negative,Poor,Strong,Medium,Visual,2.326708899486313,Low
+369,29,Male,32,52,57,51,High School,No,Yes,Medium,Yes,High,Neutral,Average,Moderate,Medium,Auditory,2.208626174703764,Average
+370,26,Male,44,67,78,76,PhD,No,No,Low,No,Low,Neutral,Good,Weak,Low,Kinesthetic,2.291030965574718,Low
+371,22,Female,11,44,81,70,Bachelor,Yes,Yes,Medium,Yes,Low,Positive,Good,Weak,Low,Visual,3.7542551237970034,High
+372,25,Male,5,52,87,87,High School,Yes,Yes,High,Yes,Low,Neutral,Poor,Weak,Low,Kinesthetic,3.0563785235127123,High
+373,18,Male,36,56,54,64,Master,No,Yes,High,No,High,Negative,Average,Weak,High,Auditory,2.9345219920150054,Low
+374,22,Female,17,89,96,70,Master,No,No,Medium,Yes,High,Negative,Average,Moderate,High,Visual,2.2134236382047083,High
+375,20,Male,34,79,71,59,Bachelor,Yes,No,High,Yes,High,Negative,Poor,Moderate,Low,Auditory,3.2991120135139234,Average
+376,29,Male,27,84,96,72,Master,Yes,No,Low,Yes,Low,Neutral,Average,Strong,Medium,Kinesthetic,3.73599918379018,Low
+377,18,Male,23,71,83,88,Master,Yes,No,Low,Yes,High,Negative,Poor,Moderate,Low,Auditory,3.656371738646906,Low
+378,21,Male,36,68,50,54,Bachelor,No,Yes,Low,No,Medium,Neutral,Average,Moderate,High,Auditory,3.2521094179616026,Average
+379,22,Male,34,90,75,50,PhD,Yes,No,High,Yes,High,Negative,Poor,Moderate,Medium,Visual,2.150557433303347,High
+380,24,Female,33,97,92,62,PhD,Yes,Yes,Low,No,Medium,Negative,Average,Strong,High,Auditory,2.224794054352026,Average
+381,18,Male,49,42,59,70,Master,No,Yes,High,No,High,Neutral,Poor,Weak,Medium,Auditory,2.0986179742196494,Average
+382,20,Male,33,95,79,75,PhD,No,No,Low,Yes,Low,Negative,Average,Moderate,High,Auditory,2.5149584329849386,High
+383,19,Male,34,79,99,99,PhD,No,No,Medium,Yes,High,Positive,Good,Strong,Medium,Visual,2.2713229343207555,Average
+384,26,Male,20,73,67,94,Master,No,No,High,Yes,Medium,Neutral,Average,Strong,Medium,Kinesthetic,2.5200960805048678,High
+385,27,Male,44,79,66,70,PhD,No,No,High,Yes,Medium,Neutral,Poor,Strong,Medium,Kinesthetic,2.7701161114379236,High
+386,23,Female,23,66,75,67,Master,Yes,No,Low,No,High,Neutral,Good,Weak,Medium,Auditory,3.8859655681422716,Average
+387,27,Male,22,52,57,86,High School,Yes,Yes,High,No,Medium,Positive,Average,Moderate,High,Visual,3.220752119563384,High
+388,20,Female,5,84,96,94,Bachelor,No,No,High,No,Medium,Neutral,Good,Strong,High,Auditory,3.669947571365925,Average
+389,25,Female,18,72,89,81,Bachelor,No,No,Medium,Yes,Low,Negative,Average,Weak,Medium,Kinesthetic,3.4207030014246644,High
+390,25,Male,6,45,98,85,PhD,No,No,Medium,No,High,Negative,Good,Strong,Medium,Visual,2.2250062610532635,Low
+391,19,Male,32,63,61,66,PhD,No,Yes,Low,Yes,High,Negative,Poor,Strong,High,Kinesthetic,3.4718408127478977,High
+392,23,Male,34,58,76,84,PhD,No,No,Medium,Yes,High,Neutral,Average,Strong,Medium,Kinesthetic,2.550197763118249,High
+393,24,Male,42,55,57,98,Bachelor,Yes,Yes,Low,Yes,Medium,Negative,Average,Strong,Medium,Visual,3.278215693989413,Average
+394,19,Female,8,79,74,60,High School,Yes,No,Low,Yes,High,Neutral,Poor,Strong,Medium,Visual,2.681923947285977,High
+395,28,Male,5,67,95,70,High School,Yes,No,Low,Yes,High,Negative,Good,Weak,Low,Auditory,3.995344526529318,Low
+396,27,Male,12,72,53,75,Bachelor,Yes,Yes,High,No,Low,Positive,Poor,Moderate,Medium,Auditory,2.527102958993556,Low
+397,19,Male,33,98,82,53,High School,No,No,Medium,No,Low,Positive,Poor,Moderate,Low,Kinesthetic,2.5582609415485393,High
+398,27,Male,43,98,50,83,Bachelor,Yes,Yes,Low,Yes,Low,Positive,Good,Moderate,Medium,Visual,3.8613445111247966,High
+399,18,Male,7,87,68,97,High School,No,Yes,Medium,No,Medium,Positive,Poor,Moderate,High,Visual,2.049288809272645,Low
+400,25,Male,36,80,80,67,Master,No,Yes,Low,Yes,High,Neutral,Average,Weak,Low,Auditory,3.393377975746394,Average
+401,18,Female,14,52,65,89,Master,No,No,Medium,Yes,Low,Negative,Average,Weak,Low,Kinesthetic,3.4506527814717565,Low
+402,26,Female,14,82,63,84,Bachelor,Yes,No,Medium,Yes,Low,Positive,Average,Weak,Medium,Kinesthetic,3.6727571548207987,Low
+403,28,Male,23,84,97,90,High School,No,No,Low,No,Low,Neutral,Poor,Strong,Medium,Auditory,3.9488786212769504,High
+404,23,Male,38,64,54,78,PhD,Yes,Yes,High,Yes,High,Positive,Average,Strong,Low,Visual,3.9512038383133046,High
+405,24,Male,37,92,90,78,High School,Yes,No,Medium,Yes,High,Positive,Average,Strong,High,Auditory,2.130553515132928,Low
+406,27,Female,27,81,75,87,Master,No,Yes,High,No,High,Neutral,Average,Moderate,High,Auditory,3.643678645505805,Average
+407,24,Male,32,75,77,91,Master,No,No,High,No,Medium,Neutral,Average,Strong,Medium,Auditory,3.2926198673147624,Low
+408,27,Female,36,66,51,70,High School,No,Yes,Low,No,Medium,Negative,Average,Moderate,High,Auditory,3.2946842687461824,Low
+409,20,Male,11,77,99,91,High School,Yes,Yes,Low,Yes,Low,Negative,Average,Strong,High,Visual,2.2566998532293896,Average
+410,19,Male,33,99,55,62,PhD,No,Yes,Low,Yes,High,Positive,Poor,Moderate,Medium,Auditory,3.3003743328913067,Low
+411,26,Male,12,46,58,98,PhD,Yes,No,Medium,No,Low,Positive,Average,Strong,High,Visual,3.9649651612024956,Low
+412,25,Male,5,44,82,90,High School,No,Yes,Low,Yes,High,Negative,Average,Strong,Medium,Auditory,3.823637139078894,High
+413,29,Female,7,82,90,66,High School,No,Yes,Low,No,High,Negative,Good,Weak,Low,Kinesthetic,2.878261321609701,Average
+414,27,Female,28,84,74,58,High School,Yes,Yes,Medium,No,High,Neutral,Poor,Strong,Medium,Visual,2.0798959465721887,High
+415,24,Male,27,97,97,90,High School,Yes,Yes,Medium,Yes,Medium,Negative,Poor,Strong,Low,Kinesthetic,2.7245869800004097,High
+416,26,Male,12,96,62,50,Bachelor,Yes,Yes,Low,Yes,Medium,Negative,Poor,Weak,Low,Auditory,3.65278062320111,Average
+417,21,Female,41,90,58,51,High School,Yes,Yes,Low,No,High,Positive,Poor,Moderate,High,Auditory,3.4029982029303323,Average
+418,21,Female,7,70,62,97,PhD,Yes,No,Low,No,Low,Negative,Average,Weak,High,Auditory,2.918687311187913,Low
+419,18,Female,37,62,80,78,Master,Yes,No,Low,No,High,Positive,Average,Weak,High,Visual,2.110203070317662,High
+420,25,Female,32,81,90,82,Bachelor,No,Yes,High,No,High,Negative,Good,Moderate,Medium,Kinesthetic,2.8537894556466052,Average
+421,29,Male,12,49,60,59,High School,No,No,High,Yes,Low,Neutral,Good,Strong,High,Visual,2.9380498794357672,High
+422,20,Female,38,71,53,99,Master,Yes,No,Low,No,High,Negative,Poor,Moderate,Low,Visual,3.857111065788272,High
+423,24,Male,39,82,83,89,Bachelor,No,Yes,High,No,Low,Negative,Good,Strong,High,Auditory,3.2821722071643187,Average
+424,29,Female,36,92,87,70,Master,Yes,Yes,Medium,No,Medium,Negative,Good,Strong,High,Kinesthetic,2.623305833309298,Low
+425,19,Female,28,69,95,77,High School,No,Yes,High,Yes,Medium,Positive,Poor,Moderate,Medium,Auditory,3.0506365289014425,High
+426,19,Female,18,78,53,60,High School,No,No,High,Yes,Low,Neutral,Poor,Weak,Medium,Visual,2.1321106156443204,Average
+427,24,Female,36,70,87,83,PhD,Yes,Yes,Low,No,Medium,Negative,Good,Moderate,Low,Auditory,3.945136471299474,Low
+428,23,Female,47,57,68,57,High School,Yes,No,High,Yes,Medium,Positive,Average,Strong,Medium,Kinesthetic,2.720119803861452,High
+429,20,Male,20,75,55,71,High School,Yes,Yes,High,Yes,Low,Neutral,Good,Moderate,High,Auditory,2.9557347098262716,Average
+430,26,Male,8,41,83,57,Bachelor,No,No,High,Yes,Medium,Positive,Good,Moderate,Medium,Kinesthetic,2.7105679484738454,High
+431,27,Female,41,53,67,98,PhD,Yes,Yes,High,No,High,Positive,Average,Strong,Low,Kinesthetic,3.3650234602324005,Average
+432,23,Female,25,52,62,64,Bachelor,No,Yes,Medium,No,High,Neutral,Average,Weak,High,Auditory,3.324464316659186,Average
+433,27,Male,18,68,90,66,Master,Yes,No,Low,Yes,Low,Negative,Poor,Moderate,Low,Visual,3.4306446210582715,High
+434,27,Female,35,51,72,72,High School,No,No,Low,No,Medium,Positive,Poor,Strong,Medium,Auditory,2.5362864592238417,High
+435,23,Female,22,78,68,73,Master,No,No,Medium,No,High,Positive,Good,Strong,Medium,Visual,2.631336962328132,Average
+436,18,Male,11,41,94,94,Bachelor,Yes,No,High,Yes,High,Negative,Average,Moderate,Low,Visual,2.250502462192416,Low
+437,21,Female,14,71,60,68,High School,No,No,Medium,Yes,Medium,Negative,Poor,Weak,High,Auditory,3.311019943692225,High
+438,27,Female,11,52,50,54,High School,No,No,High,No,Medium,Neutral,Good,Moderate,Medium,Visual,2.079594254671305,Average
+439,23,Male,37,85,73,81,Bachelor,Yes,Yes,Medium,Yes,High,Neutral,Average,Weak,Medium,Visual,3.195364671046918,Average
+440,23,Male,27,66,56,93,Bachelor,No,No,Low,No,High,Neutral,Good,Weak,High,Auditory,3.7393917697032677,Low
+441,28,Male,25,88,74,50,Bachelor,Yes,Yes,Low,No,Low,Negative,Poor,Weak,Medium,Auditory,3.781664296579267,Low
+442,29,Female,23,80,70,72,Bachelor,Yes,Yes,Low,Yes,Low,Positive,Poor,Weak,Low,Auditory,2.8980755207399236,Low
+443,22,Male,23,56,64,86,Bachelor,Yes,No,High,No,High,Positive,Average,Moderate,Medium,Visual,2.9186073764261478,High
+444,18,Male,40,79,50,57,High School,Yes,Yes,High,No,Low,Neutral,Good,Strong,Medium,Kinesthetic,2.1539383660160345,Average
+445,25,Male,33,70,61,62,Bachelor,No,No,Medium,Yes,High,Negative,Average,Strong,High,Visual,3.3415300508860715,Average
+446,22,Male,22,73,56,57,High School,No,No,Medium,Yes,High,Positive,Poor,Strong,Low,Kinesthetic,3.6425188407456908,Average
+447,29,Male,6,99,64,72,High School,No,Yes,Low,Yes,Low,Neutral,Poor,Strong,High,Auditory,2.489310109209426,Low
+448,29,Male,5,63,70,92,Bachelor,Yes,Yes,High,No,Low,Positive,Good,Strong,Medium,Kinesthetic,2.842601763266729,Average
+449,29,Female,9,84,68,50,Bachelor,No,No,Medium,Yes,Medium,Positive,Good,Strong,Medium,Auditory,3.677678673530541,High
+450,22,Female,24,74,78,94,PhD,No,No,High,Yes,Medium,Negative,Good,Moderate,High,Auditory,3.7542409353245763,Low
+451,24,Male,15,87,74,73,High School,Yes,Yes,High,Yes,Medium,Negative,Average,Weak,High,Kinesthetic,2.4863599605284517,Low
+452,21,Male,46,45,82,84,Bachelor,Yes,Yes,Low,Yes,High,Positive,Good,Strong,High,Auditory,3.1011412690827287,Low
+453,23,Male,6,58,98,73,Bachelor,No,Yes,Low,No,Low,Neutral,Good,Moderate,Low,Kinesthetic,2.3849863012716543,Low
+454,21,Female,7,69,81,66,Bachelor,Yes,Yes,High,No,High,Negative,Poor,Strong,Medium,Auditory,2.2037575282791133,High
+455,20,Female,27,46,98,54,PhD,Yes,No,High,Yes,Low,Positive,Poor,Strong,High,Visual,3.8222410027839153,Average
+456,24,Female,16,49,84,69,PhD,Yes,No,High,No,High,Negative,Good,Weak,Medium,Visual,3.641015008464218,High
+457,25,Female,24,80,93,70,Master,Yes,No,High,Yes,Medium,Negative,Good,Weak,Low,Auditory,3.520069803606348,Average
+458,21,Female,9,71,87,89,High School,No,No,Low,Yes,Medium,Negative,Poor,Weak,Low,Auditory,2.097532637626281,High
+459,19,Female,41,73,75,80,Master,Yes,Yes,Medium,No,Medium,Positive,Good,Strong,Low,Kinesthetic,3.687457585420515,Low
+460,29,Female,42,67,60,95,Bachelor,Yes,Yes,Low,No,High,Neutral,Average,Strong,Low,Visual,2.8760881518107677,Low
+461,27,Female,34,99,84,85,PhD,Yes,No,Medium,Yes,Low,Neutral,Average,Strong,Medium,Kinesthetic,2.684790246591719,High
+462,20,Female,13,54,57,60,PhD,Yes,No,High,Yes,Low,Neutral,Average,Weak,Low,Auditory,3.092952722050753,High
+463,18,Male,38,69,95,64,Master,Yes,No,Medium,No,Medium,Negative,Good,Moderate,Low,Auditory,2.1827064854471114,Average
+464,25,Male,48,76,63,68,PhD,Yes,No,Low,Yes,Medium,Positive,Poor,Strong,High,Kinesthetic,3.5132930987047977,High
+465,20,Male,39,68,59,56,Bachelor,Yes,No,Low,No,Medium,Negative,Good,Strong,Low,Auditory,3.164870153776592,High
+466,29,Male,26,61,51,77,PhD,Yes,No,High,Yes,Medium,Neutral,Good,Strong,High,Visual,2.373180193746335,Average
+467,27,Female,48,43,95,92,Master,No,No,Low,Yes,Low,Neutral,Poor,Moderate,Low,Kinesthetic,2.376464399538091,Average
+468,24,Female,28,59,58,54,Bachelor,Yes,No,High,No,High,Positive,Poor,Strong,Low,Visual,2.3684973031453485,Average
+469,27,Male,21,71,52,54,Master,No,No,Low,No,High,Negative,Poor,Moderate,High,Visual,2.1140047751038678,High
+470,22,Female,14,75,70,79,PhD,Yes,Yes,Low,No,High,Neutral,Average,Strong,Low,Visual,3.1755968987433696,Average
+471,27,Male,34,89,75,81,Master,Yes,No,High,No,High,Positive,Good,Moderate,Medium,Kinesthetic,3.680696355177016,Low
+472,22,Female,27,43,57,57,Master,Yes,Yes,Medium,No,Medium,Negative,Poor,Strong,Medium,Auditory,2.034996427974777,Low
+473,24,Male,36,66,97,59,High School,Yes,Yes,Low,No,Medium,Negative,Good,Weak,Low,Visual,2.098009289942547,Low
+474,26,Female,21,56,51,87,PhD,No,No,Medium,No,Medium,Neutral,Average,Weak,Medium,Visual,3.1455405533738916,High
+475,29,Female,21,51,55,96,PhD,Yes,No,Low,Yes,High,Neutral,Average,Weak,High,Visual,3.6389913707721044,Low
+476,22,Male,18,61,77,81,Master,Yes,Yes,Low,Yes,Medium,Negative,Poor,Weak,Low,Auditory,2.6534777811372674,High
+477,18,Female,13,56,78,97,High School,No,Yes,Low,Yes,Medium,Negative,Poor,Strong,Low,Auditory,2.6992287976154445,High
+478,27,Male,44,49,75,77,PhD,No,No,Low,No,Low,Neutral,Good,Weak,High,Kinesthetic,3.1926929949935516,Low
+479,27,Male,6,93,74,66,Bachelor,Yes,Yes,Medium,No,Low,Negative,Poor,Moderate,High,Auditory,2.548425778248294,Average
+480,18,Male,49,40,61,80,Master,No,No,Medium,No,Medium,Neutral,Good,Weak,High,Kinesthetic,2.0532167321553683,High
+481,19,Male,29,61,54,57,PhD,No,No,Low,Yes,Low,Negative,Poor,Weak,Low,Kinesthetic,3.470457036203192,Low
+482,23,Female,43,65,83,89,Bachelor,No,No,Low,No,Low,Neutral,Good,Weak,High,Kinesthetic,3.2512998258829064,High
+483,26,Female,13,95,97,74,PhD,Yes,Yes,Medium,No,Medium,Positive,Good,Strong,High,Kinesthetic,3.161511998111318,Average
+484,25,Female,26,98,86,58,Bachelor,Yes,Yes,High,Yes,Medium,Neutral,Good,Weak,Medium,Kinesthetic,3.4833682579836465,Average
+485,22,Male,47,57,64,51,Master,Yes,No,High,No,Medium,Neutral,Good,Moderate,Medium,Visual,3.350461675124075,Low
+486,18,Female,8,89,93,64,PhD,No,Yes,Medium,Yes,Medium,Positive,Average,Weak,Low,Auditory,2.4117639763566423,High
+487,24,Male,30,53,85,99,PhD,Yes,Yes,Low,Yes,High,Negative,Good,Weak,Medium,Visual,2.704962093886702,High
+488,22,Female,33,86,64,52,High School,No,Yes,Low,No,High,Positive,Poor,Weak,Medium,Kinesthetic,2.25222028335725,High
+489,23,Female,49,68,92,98,Master,Yes,Yes,High,No,Medium,Neutral,Average,Moderate,High,Auditory,2.259714026835762,High
+490,24,Female,38,51,97,85,Bachelor,Yes,Yes,High,No,Low,Negative,Average,Weak,High,Visual,3.3523914927130782,Low
+491,20,Male,27,75,72,53,PhD,No,Yes,Medium,Yes,Medium,Positive,Good,Moderate,Medium,Visual,3.7172002139649964,Average
+492,29,Female,41,98,55,63,PhD,Yes,Yes,High,Yes,Medium,Negative,Average,Moderate,Medium,Kinesthetic,3.925465167722278,Low
+493,27,Female,15,74,95,90,Bachelor,No,No,Medium,Yes,Low,Negative,Good,Weak,Medium,Visual,3.256694235098889,High
+494,20,Male,10,91,99,90,Master,No,Yes,High,No,High,Positive,Poor,Moderate,Low,Visual,2.368202646721914,High
+495,22,Female,22,51,93,74,High School,Yes,Yes,High,No,Medium,Negative,Good,Strong,Low,Visual,2.211300690897861,Average
+496,23,Male,25,46,92,99,High School,No,Yes,High,No,Medium,Positive,Average,Weak,Low,Visual,3.6257019430735156,High
+497,26,Female,46,68,94,59,PhD,Yes,Yes,Low,No,High,Neutral,Poor,Weak,Medium,Visual,3.1575129527199985,Low
+498,29,Male,40,50,70,70,Bachelor,Yes,Yes,Low,Yes,High,Negative,Good,Moderate,Medium,Kinesthetic,3.2365700420274397,Low
+499,22,Male,45,72,72,85,PhD,No,Yes,Low,Yes,Low,Neutral,Poor,Moderate,Low,Kinesthetic,3.5629241775094185,Average
+500,18,Female,42,45,92,61,Bachelor,Yes,Yes,High,Yes,High,Neutral,Poor,Weak,Low,Visual,3.406554455464903,Low
